@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 677effea2aac1e947991d7a9eccf1122
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 104052746630026589
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_0
+  - first:
+      213: 3807622734049571271
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_1
+  - first:
+      213: 8773023185032252710
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_2
+  - first:
+      213: -6238296683202822299
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_3
+  - first:
+      213: 1566865135457633438
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_4
+  - first:
+      213: -1541182530301805119
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_5
+  - first:
+      213: -1729239461293124875
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_6
+  - first:
+      213: -6095627360173111522
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_7
+  - first:
+      213: 7704427822227934408
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_8
+  - first:
+      213: 2692989351871572869
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_9
+  - first:
+      213: 8726852200142877717
+    second: Cobra_Robot-Hero_FullHD_Attack_Punch_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3360
+        width: 687
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5559c8fb6ba17100800000000000000
+      internalID: 104052746630026589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3360
+        width: 585
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f9b5f3b467d430800000000000000
+      internalID: 3807622734049571271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 3360
+        width: 444
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0d16fa1a00c970800000000000000
+      internalID: 8773023185032252710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2280
+        width: 944
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb232f73e1d69a0800000000000000
+      internalID: -6238296683202822299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2280
+        width: 944
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9485e10a8f9eb510800000000000000
+      internalID: 1566865135457633438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 2280
+        width: 702
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb25b77ae9c9ae0800000000000000
+      internalID: -1541182530301805119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1200
+        width: 702
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f219023fd18008e0800000000000000
+      internalID: -1729239461293124875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 1200
+        width: 559
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17cab1463bf76ba0800000000000000
+      internalID: -6095627360173111522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 1200
+        width: 559
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc4885d840abea60800000000000000
+      internalID: 7704427822227934408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 120
+        width: 538
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58be6362c8b6f5520800000000000000
+      internalID: 2692989351871572869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Attack_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 120
+        width: 538
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143ad4d6d10c1970800000000000000
+      internalID: 8726852200142877717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

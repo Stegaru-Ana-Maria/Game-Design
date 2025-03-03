@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f0a22eb4328086d4986ca4b0b55be937
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 588312931656741454
+    second: Cobra_Robot-Hero_FullHD_Idle_0
+  - first:
+      213: -2342365178642545415
+    second: Cobra_Robot-Hero_FullHD_Idle_1
+  - first:
+      213: 4610672545550749429
+    second: Cobra_Robot-Hero_FullHD_Idle_2
+  - first:
+      213: 1014157851444396542
+    second: Cobra_Robot-Hero_FullHD_Idle_3
+  - first:
+      213: 6173864592415219923
+    second: Cobra_Robot-Hero_FullHD_Idle_4
+  - first:
+      213: -1349285244321961971
+    second: Cobra_Robot-Hero_FullHD_Idle_5
+  - first:
+      213: -1044245407578404721
+    second: Cobra_Robot-Hero_FullHD_Idle_6
+  - first:
+      213: -9093018536185640567
+    second: Cobra_Robot-Hero_FullHD_Idle_7
+  - first:
+      213: -9005645433998672618
+    second: Cobra_Robot-Hero_FullHD_Idle_8
+  - first:
+      213: 6670028642895892714
+    second: Cobra_Robot-Hero_FullHD_Idle_9
+  - first:
+      213: 8067476399007974467
+    second: Cobra_Robot-Hero_FullHD_Idle_10
+  - first:
+      213: 1274469584616061412
+    second: Cobra_Robot-Hero_FullHD_Idle_11
+  - first:
+      213: 4858622168071578537
+    second: Cobra_Robot-Hero_FullHD_Idle_12
+  - first:
+      213: 1870398250313059497
+    second: Cobra_Robot-Hero_FullHD_Idle_13
+  - first:
+      213: -3373388025972060022
+    second: Cobra_Robot-Hero_FullHD_Idle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 4440
+        width: 627
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e423b2c8e7b1a2800800000000000000
+      internalID: 588312931656741454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 4440
+        width: 627
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f444c8c74f3e7fd0800000000000000
+      internalID: -2342365178642545415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 4440
+        width: 627
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec23570466cff30800000000000000
+      internalID: 4610672545550749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3359
+        width: 652
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef144815133031e00800000000000000
+      internalID: 1014157851444396542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 3359
+        width: 652
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d06542e229fda550800000000000000
+      internalID: 6173864592415219923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 3359
+        width: 652
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0863871830664de0800000000000000
+      internalID: -1349285244321961971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2279
+        width: 663
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c4fe95581281f0800000000000000
+      internalID: -1044245407578404721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2279
+        width: 663
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cc9671db1fc180800000000000000
+      internalID: -9093018536185640567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2279
+        width: 663
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df3651135850380800000000000000
+      internalID: -9005645433998672618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1199
+        width: 655
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09d7d16b3b09c50800000000000000
+      internalID: 6670028642895892714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1199
+        width: 655
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c7b4aa0f65ff60800000000000000
+      internalID: 8067476399007974467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 1199
+        width: 655
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e97414b553dfa110800000000000000
+      internalID: 1274469584616061412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 119
+        width: 651
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3aeb9ae1b4d6340800000000000000
+      internalID: 4858622168071578537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 119
+        width: 651
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0c628c4df4f910800000000000000
+      internalID: 1870398250313059497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobra_Robot-Hero_FullHD_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 119
+        width: 651
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80116e96715f21d0800000000000000
+      internalID: -3373388025972060022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
