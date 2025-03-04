@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\",
+  "WorkspaceRootPath": "C:\\Users\\a\\Game-Design\\GameDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\LadderMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LadderMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\laddermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laddermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LadderMovement.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\LadderMovement.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\LadderMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LadderMovement.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\LadderMovement.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\LadderMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\LadderMovement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T21:15:58.317Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T13:34:58.191Z",
               "EditorCaption": ""

@@ -1,51 +1,52 @@
 using UnityEngine;
 
-public class LadderMovement : MonoBehaviour
+public class VentMovement : MonoBehaviour
 {
     private float vertical;
     private float speed = 5f;
-    private bool isLadder;
-    private bool isClimbing;
+    private bool isVent;
+    private bool isAscending;
+    [SerializeField] float gravity;
 
-    [SerializeField] private Rigidbody2D rb;
+   [SerializeField] private Rigidbody2D rb;
 
     void Update()
     {
         vertical = Input.GetAxisRaw("Vertical");
 
-        if (isLadder && Mathf.Abs(vertical) > 0f)
+        if (isVent && Mathf.Abs(vertical) > 0f)
         {
-            isClimbing = true;
+            isAscending = true;
         }
     }
 
     private void FixedUpdate()
     {
-        if (isClimbing)
+        if (isAscending)
         {
             rb.gravityScale = 0f;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, vertical * speed);
         }
         else
         {
-            rb.gravityScale = 1f;
+            rb.gravityScale = gravity;
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Ladder"))
+        if (collision.CompareTag("Vent"))
         {
-            isLadder = true;
+            isVent = true;
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Ladder"))
+        if (collision.CompareTag("Vent"))
         {
-            isLadder = false;
-            isClimbing = false;
+            isVent = false;
+            isAscending = false;
         }
     }
 }
