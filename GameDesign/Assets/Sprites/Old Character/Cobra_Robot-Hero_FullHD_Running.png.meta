@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cobra_Robot-Hero_FullHD_Running_0: -3359785623772327876
+      Cobra_Robot-Hero_FullHD_Running_1: 4752315903200533849
+      Cobra_Robot-Hero_FullHD_Running_10: 2369516805486405131
+      Cobra_Robot-Hero_FullHD_Running_11: 6194177967573288198
+      Cobra_Robot-Hero_FullHD_Running_12: -5545922955669069111
+      Cobra_Robot-Hero_FullHD_Running_13: -1552751094672745133
+      Cobra_Robot-Hero_FullHD_Running_14: -4274913338550415448
+      Cobra_Robot-Hero_FullHD_Running_15: 5960726752738476379
+      Cobra_Robot-Hero_FullHD_Running_16: -769873238471478404
+      Cobra_Robot-Hero_FullHD_Running_17: -7867037104440940015
+      Cobra_Robot-Hero_FullHD_Running_2: -4883982726890152985
+      Cobra_Robot-Hero_FullHD_Running_3: 4012992048750080192
+      Cobra_Robot-Hero_FullHD_Running_4: 1365605278658729707
+      Cobra_Robot-Hero_FullHD_Running_5: -1960703161751478015
+      Cobra_Robot-Hero_FullHD_Running_6: -109618551645245112
+      Cobra_Robot-Hero_FullHD_Running_7: -608210302917676778
+      Cobra_Robot-Hero_FullHD_Running_8: -5071786345426610247
+      Cobra_Robot-Hero_FullHD_Running_9: -9085647809052966748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

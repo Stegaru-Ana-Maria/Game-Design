@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cobra_Robot-Hero_FullHD_Attack_Punch_0: 104052746630026589
+      Cobra_Robot-Hero_FullHD_Attack_Punch_1: 3807622734049571271
+      Cobra_Robot-Hero_FullHD_Attack_Punch_10: 8726852200142877717
+      Cobra_Robot-Hero_FullHD_Attack_Punch_2: 8773023185032252710
+      Cobra_Robot-Hero_FullHD_Attack_Punch_3: -6238296683202822299
+      Cobra_Robot-Hero_FullHD_Attack_Punch_4: 1566865135457633438
+      Cobra_Robot-Hero_FullHD_Attack_Punch_5: -1541182530301805119
+      Cobra_Robot-Hero_FullHD_Attack_Punch_6: -1729239461293124875
+      Cobra_Robot-Hero_FullHD_Attack_Punch_7: -6095627360173111522
+      Cobra_Robot-Hero_FullHD_Attack_Punch_8: 7704427822227934408
+      Cobra_Robot-Hero_FullHD_Attack_Punch_9: 2692989351871572869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

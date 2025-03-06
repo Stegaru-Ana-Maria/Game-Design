@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 822b15e70acaeb04dac6818a25da0034
+guid: 98058555f7e62a94e980891f3ccf900d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2005000925875953112
-    second: Cobra_Robot-Hero_FullHD_Falling_0
+      213: -6983372327507459144
+    second: Punk_attack1_0
   - first:
-      213: 1027844482415553373
-    second: Cobra_Robot-Hero_FullHD_Falling_1
+      213: -5339744630182338861
+    second: Punk_attack1_1
   - first:
-      213: 7488331164506147347
-    second: Cobra_Robot-Hero_FullHD_Falling_2
+      213: 225203629906607936
+    second: Punk_attack1_2
   - first:
-      213: 1331435816467750671
-    second: Cobra_Robot-Hero_FullHD_Falling_3
+      213: 5895516016956703320
+    second: Punk_attack1_3
   - first:
-      213: 4773763581670663929
-    second: Cobra_Robot-Hero_FullHD_Falling_4
+      213: -6810403483812997936
+    second: Punk_attack1_4
   - first:
-      213: 8919605729653908569
-    second: Cobra_Robot-Hero_FullHD_Falling_5
+      213: 8894230793338122510
+    second: Punk_attack1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_0
+      name: Punk_attack1_0
       rect:
         serializedVersion: 2
-        x: 608
-        y: 2233
-        width: 710
-        height: 674
+        x: 4
+        y: 0
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dd5a2918b133db10800000000000000
-      internalID: 2005000925875953112
+      spriteID: 8b300ac1ed3161f90800000000000000
+      internalID: -6983372327507459144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_1
+      name: Punk_attack1_1
       rect:
         serializedVersion: 2
-        x: 2528
-        y: 2233
-        width: 710
-        height: 674
+        x: 50
+        y: 0
+        width: 21
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5b69ba6c13a34e00800000000000000
-      internalID: 1027844482415553373
+      spriteID: 3de9eaecc8a65e5b0800000000000000
+      internalID: -5339744630182338861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_2
+      name: Punk_attack1_2
       rect:
         serializedVersion: 2
-        x: 604
-        y: 1155
-        width: 723
-        height: 669
+        x: 97
+        y: 0
+        width: 22
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31a40ece485ebe760800000000000000
-      internalID: 7488331164506147347
+      spriteID: 04f36ba1285102300800000000000000
+      internalID: 225203629906607936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_3
+      name: Punk_attack1_3
       rect:
         serializedVersion: 2
-        x: 2524
-        y: 1155
-        width: 723
-        height: 669
+        x: 149
+        y: 0
+        width: 18
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0fdac122d53a7210800000000000000
-      internalID: 1331435816467750671
+      spriteID: 8528456e49411d150800000000000000
+      internalID: 5895516016956703320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_4
+      name: Punk_attack1_4
       rect:
         serializedVersion: 2
-        x: 604
-        y: 75
-        width: 723
-        height: 669
+        x: 198
+        y: 0
+        width: 22
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f62d2f5fa0df3240800000000000000
-      internalID: 4773763581670663929
+      spriteID: 0d45e325d169c71a0800000000000000
+      internalID: -6810403483812997936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Falling_5
+      name: Punk_attack1_5
       rect:
         serializedVersion: 2
-        x: 2524
-        y: 75
-        width: 723
-        height: 669
+        x: 246
+        y: 0
+        width: 17
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9546f8c272ec8cb70800000000000000
-      internalID: 8919605729653908569
+      spriteID: e01724b68c7ae6b70800000000000000
+      internalID: 8894230793338122510
       vertices: []
       indices: 
       edges: []
@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Punk_attack1_0: -6983372327507459144
+      Punk_attack1_1: -5339744630182338861
+      Punk_attack1_2: 225203629906607936
+      Punk_attack1_3: 5895516016956703320
+      Punk_attack1_4: -6810403483812997936
+      Punk_attack1_5: 8894230793338122510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

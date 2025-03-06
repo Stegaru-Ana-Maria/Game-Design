@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: 1b2e563149794314583a3de6c7378a73
+guid: a226b018e5c0f184f853c66e2ea7ba9b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6928323486924928919
-    second: Cobra_Robot-Hero_FullHD_Shooting_0
+      213: -2564383168423420662
+    second: Punk_hurt_0
   - first:
-      213: 3843500356423346941
-    second: Cobra_Robot-Hero_FullHD_Shooting_1
-  - first:
-      213: 5700685657211593103
-    second: Cobra_Robot-Hero_FullHD_Shooting_2
-  - first:
-      213: 7526433874551759590
-    second: Cobra_Robot-Hero_FullHD_Shooting_3
-  - first:
-      213: 4130881527378685368
-    second: Cobra_Robot-Hero_FullHD_Shooting_4
-  - first:
-      213: 2527402310514324493
-    second: Cobra_Robot-Hero_FullHD_Shooting_5
+      213: -7400074292645236167
+    second: Punk_hurt_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_0
+      name: Punk_hurt_0
       rect:
         serializedVersion: 2
-        x: 780
-        y: 2280
-        width: 495
-        height: 546
+        x: 4
+        y: 0
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96808d81f76a9df90800000000000000
-      internalID: -6928323486924928919
+      spriteID: a0d9122581b796cd0800000000000000
+      internalID: -2564383168423420662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_1
+      name: Punk_hurt_1
       rect:
         serializedVersion: 2
-        x: 2700
-        y: 2280
-        width: 495
-        height: 546
+        x: 48
+        y: 0
+        width: 23
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,96 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dfa63bed53bd65530800000000000000
-      internalID: 3843500356423346941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_2
-      rect:
-        serializedVersion: 2
-        x: 774
-        y: 1200
-        width: 494
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f81e246d667ec1f40800000000000000
-      internalID: 5700685657211593103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_3
-      rect:
-        serializedVersion: 2
-        x: 2694
-        y: 1200
-        width: 494
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e2ef1e6bb3437860800000000000000
-      internalID: 7526433874551759590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_4
-      rect:
-        serializedVersion: 2
-        x: 774
-        y: 120
-        width: 494
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8bd21a0ecd6d35930800000000000000
-      internalID: 4130881527378685368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cobra_Robot-Hero_FullHD_Shooting_5
-      rect:
-        serializedVersion: 2
-        x: 2694
-        y: 120
-        width: 494
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0435bab203231320800000000000000
-      internalID: 2527402310514324493
+      spriteID: 932716b53a7ad4990800000000000000
+      internalID: -7400074292645236167
       vertices: []
       indices: 
       edges: []
@@ -259,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Punk_hurt_0: -2564383168423420662
+      Punk_hurt_1: -7400074292645236167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
