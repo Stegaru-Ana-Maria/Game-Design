@@ -61,15 +61,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.39f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+    <Compile Include="Assets\Scripts\SwitchController.cs" />
     <Compile Include="Assets\Scripts\KillPlayer.cs" />
-    <Compile Include="Assets\Scripts\DoorInteractAutomatic.cs" />
     <Compile Include="Assets\Scripts\VentMovement.cs" />
-    <Compile Include="Assets\Scripts\DoorTriggerButton.cs" />
-    <Compile Include="Assets\Scripts\IDoor.cs" />
+    <Compile Include="Assets\Scripts\DoorController.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
-    <Compile Include="Assets\Scripts\DoorSetActive.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
