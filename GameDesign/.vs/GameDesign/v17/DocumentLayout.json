@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\Game-Design\\GameDesign\\",
+  "WorkspaceRootPath": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\doortriggerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doortriggerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\doorsetactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorsetactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\doorinteractautomatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorinteractautomatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\idoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentMovement.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\VentMovement.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\VentMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Title": "DoorTriggerButton.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorTriggerButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorTriggerButton.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorTriggerButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorTriggerButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T14:41:53.422Z",
+              "WhenOpened": "2025-03-07T13:30:48.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Title": "DoorSetActive.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorSetActive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorSetActive.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorSetActive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorSetActive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:34:58.191Z",
+              "WhenOpened": "2025-03-07T12:09:50.773Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDoor.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\IDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDoor.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\IDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:50:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorInteractAutomatic.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorInteractAutomatic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorInteractAutomatic.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\DoorInteractAutomatic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorInteractAutomatic.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:44:08.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KillPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\KillPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KillPlayer.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\KillPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KillPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:48:38.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentMovement.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VentMovement.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VentMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:41:53.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:34:58.191Z"
             }
           ]
         }

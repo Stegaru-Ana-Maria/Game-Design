@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 98c092213c12a944787869db98ce49cf
+guid: 9e057a9a711ebff41a532b0941b4688c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 101581398520613168
-    second: Barrel (2)_0
+      213: 5689635077959799990
+    second: Ladder1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Barrel (2)_0
+      name: Ladder1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 177
-        height: 238
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 039cb966eb3e86100800000000000000
-      internalID: 101581398520613168
+      spriteID: 6b4556b55f4a5fe40800000000000000
+      internalID: 5689635077959799990
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Barrel (2)_0: 101581398520613168
+      Ladder1_0: 5689635077959799990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
