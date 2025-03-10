@@ -8,6 +8,7 @@ TagManager:
   - Acid
   - Vent
   - Ladder
+  - Object
   layers:
   - Default
   - TransparentFX

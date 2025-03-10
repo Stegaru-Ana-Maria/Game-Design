@@ -14,6 +14,10 @@ public class PlayerMovement : MonoBehaviour
 
     private BoxCollider2D boxCollider;
     private Animator anim;
+    public GameObject attackPoint;
+    public float radius;
+    public LayerMask enemies;
+    public float punchingDamage;
 
     private void Awake()
     {
@@ -35,11 +39,37 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
             
         }
+
+        if (Input.GetMouseButton(0))
+        {
+            anim.SetBool("isPunching", true);
+        }
         Flip();
 
         anim.SetBool("run", horizontal != 0);
         anim.SetBool("grounded", IsGrounded());
 
+    }
+
+    public void endPunching()
+    {
+        anim.SetBool("isPunching", false);
+    }
+
+    public void punch()
+    {
+        Collider2D[] enemy = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, enemies);
+
+        foreach (Collider2D enemyGameObject in enemy)
+        {
+            Debug.Log("Hit enemy");
+            enemyGameObject.GetComponent<HealthBox>().health -= punchingDamage;
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(attackPoint.transform.position, radius);
     }
 
     private void FixedUpdate()
