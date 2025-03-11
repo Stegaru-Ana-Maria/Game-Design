@@ -3,12 +3,12 @@ using UnityEngine;
 public class VentMovement : MonoBehaviour
 {
     private float vertical;
-    private float speed = 5f;
+    private float speed = 7f;
     private bool isVent;
     private bool isAscending;
-    [SerializeField] float gravity;
-
+    
    [SerializeField] private Rigidbody2D rb;
+    private float gravity;
 
     void Update()
     {
@@ -17,13 +17,19 @@ public class VentMovement : MonoBehaviour
         if (isVent && Mathf.Abs(vertical) > 0f)
         {
             isAscending = true;
+            
         }
     }
 
     private void FixedUpdate()
     {
+        if (rb.gravityScale != 0f) 
+        {
+            gravity = rb.gravityScale;
+        }
         if (isAscending)
         {
+            
             rb.gravityScale = 0f;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, vertical * speed);
         }

@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
     public float radius;
     public LayerMask enemies;
     public float punchingDamage;
+    public float fallGravity;
+    public float gravity;
 
     private void Awake()
     {
@@ -37,7 +39,12 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            rb.gravityScale = fallGravity;
             
+        }
+        if (IsGrounded())
+        {
+            rb.gravityScale = gravity;
         }
 
         if (Input.GetMouseButton(0))
