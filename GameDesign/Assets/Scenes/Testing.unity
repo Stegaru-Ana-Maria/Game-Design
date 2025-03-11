@@ -776,7 +776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c523d95fcbff444dbd959a3a2ca94fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1119176593}
   aheadDistance: 2
   cameraSpeed: 1
 --- !u!1 &1089029039
@@ -836,7 +836,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.375, y: 4.75}
+    oldSize: {x: 4.65, y: 4.75}
     newSize: {x: 4.375, y: 4.75}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -882,7 +882,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.375, y: 4.75}
+    oldSize: {x: 4.65, y: 4.75}
     newSize: {x: 4.375, y: 4.75}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
