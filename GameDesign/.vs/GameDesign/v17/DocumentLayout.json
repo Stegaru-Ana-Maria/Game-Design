@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\a\\Game-Design\\GameDesign\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +26,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ventmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +67,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -47,10 +81,39 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:32:14.634Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Trap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Trap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:40:13.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Healthbar.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:55:45.551Z",
+>>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "CheckPointInteraction.cs",
               "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\CheckPointInteraction.cs",
@@ -65,18 +128,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:36:30.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
               "Title": "DoorController.cs",
               "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DoorController.cs",
               "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\DoorController.cs",
               "RelativeToolTip": "Assets\\Scripts\\DoorController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABcAAAAAAAAAAAAgwAMAAAAbAAAAAAAAAA==",
+=======
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAMAAAAbAAAA",
+>>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:37:31.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T10:49:52.734Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\CameraController.cs",
@@ -113,6 +195,53 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T13:34:58.191Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 4,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:49:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwitchController.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\SwitchController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchController.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\SwitchController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:49:53.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentMovement.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VentMovement.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\VentMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VentMovement.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:49:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:49:53.418Z"
+>>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
             }
           ]
         }

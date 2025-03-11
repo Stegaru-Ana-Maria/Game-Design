@@ -30,6 +30,10 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        if (Input.GetMouseButton(0) && IsGrounded()==true)
+        {
+                anim.SetBool("isPunching", true);
+        }
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
@@ -47,10 +51,7 @@ public class PlayerMovement : MonoBehaviour
             rb.gravityScale = gravity;
         }
 
-        if (Input.GetMouseButton(0))
-        {
-            anim.SetBool("isPunching", true);
-        }
+        
         Flip();
 
         anim.SetBool("run", horizontal != 0);
