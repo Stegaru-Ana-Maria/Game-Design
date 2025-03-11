@@ -62,11 +62,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SwitchController.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\CheckPointInteraction.cs" />
-=======
     <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
->>>>>>> 3f99d0fce18ea8017f356dc8410844c1cb18417b
     <Compile Include="Assets\Scripts\KillPlayer.cs" />
     <Compile Include="Assets\Scripts\HealthBox.cs" />
     <Compile Include="Assets\Scripts\VentMovement.cs" />

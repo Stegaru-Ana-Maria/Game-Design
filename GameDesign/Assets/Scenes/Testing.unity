@@ -1208,7 +1208,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 307292a76c9ed334a8f7227c3a7db9fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravity: 1
   rb: {fileID: 1119176590}
 --- !u!114 &1119176589
 MonoBehaviour:
@@ -1235,6 +1234,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   punchingDamage: 10
+  fallGravity: 0
+  gravity: 0
 --- !u!50 &1119176590
 Rigidbody2D:
   serializedVersion: 5
@@ -2071,6 +2072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
+  damageInterval: 1
 --- !u!61 &2001140839
 BoxCollider2D:
   m_ObjectHideFlags: 0
