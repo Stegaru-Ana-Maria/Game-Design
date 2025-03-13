@@ -1,4 +1,5 @@
 using UnityEngine;
+using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 
 public class PlayerMovement : MonoBehaviour
@@ -31,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontal = Input.GetAxisRaw("Horizontal");
 
-        if (Input.GetKeyDown(KeyCode.X) && IsGrounded() == true)
+        if (Input.GetKeyDown(KeyCode.X) && IsGrounded())
         {
             anim.SetTrigger("isPunching");
         }
@@ -39,22 +40,29 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
-            anim.SetTrigger("jump");
+            anim.SetBool("Jump",true);
         }
         
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
             rb.gravityScale = fallGravity;
-            
+            anim.SetBool("Jump", false);
+            anim.SetBool("Fall", true);
+        }
+        if (IsGrounded() == false && rb.linearVelocity.y < 0f && anim.GetBool("onLadder") == false)
+        {
+            rb.gravityScale = fallGravity;
+            anim.SetBool("Fall", true);
         }
         if (IsGrounded())
         {
             rb.gravityScale = gravity;
+            anim.SetBool("Fall", false);
         }
-        
 
-        Flip();
+
+            Flip();
 
         anim.SetBool("run", horizontal != 0);
         anim.SetBool("grounded", IsGrounded());

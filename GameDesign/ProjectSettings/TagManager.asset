@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Ground
   - Acid
-  - Vent
   - Ladder
   - Object
   - Laser
@@ -21,7 +20,7 @@ TagManager:
   - Background
   - Object
   - Player
-  - Vent
+  - Ladder
   - Acid
   - Laser
   - Enemy
