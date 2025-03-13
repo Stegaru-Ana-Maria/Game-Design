@@ -9,6 +9,7 @@ TagManager:
   - Vent
   - Ladder
   - Object
+  - Laser
   layers:
   - Default
   - TransparentFX
@@ -22,8 +23,8 @@ TagManager:
   - Player
   - Vent
   - Acid
-  - 
-  - 
+  - Laser
+  - Enemy
   - 
   - 
   - 
@@ -51,6 +52,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3704653627
+    locked: 0
+  - name: Laser
+    uniqueID: 3951490683
     locked: 0
   - name: Ground
     uniqueID: 1223000445

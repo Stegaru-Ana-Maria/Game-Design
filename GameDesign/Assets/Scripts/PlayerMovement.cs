@@ -52,8 +52,8 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.gravityScale = gravity;
         }
-
         
+
         Flip();
 
         anim.SetBool("run", horizontal != 0);
@@ -100,10 +100,12 @@ public class PlayerMovement : MonoBehaviour
         if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
         {
             isFacingRight = !isFacingRight;
-            Vector3 localScale = transform.localScale;
-            localScale.x *= -1f;
-            transform.localScale = localScale;
-
+            transform.Rotate(0f, 180f, 0f);
         }
+    }
+
+    public bool canAttack()
+    {
+        return horizontal == 0;
     }
 }
