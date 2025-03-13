@@ -4877,7 +4877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83f60ac4128e8b84b8be298e2223e272, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 858627508}
+  player: {fileID: 0}
   respawPoint: {fileID: 780725215}
 --- !u!61 &527903261
 BoxCollider2D:
@@ -14740,7 +14740,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 858627516}
+    TrackingTarget: {fileID: 0}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -16992,7 +16992,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c523d95fcbff444dbd959a3a2ca94fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 858627516}
+  player: {fileID: 0}
   aheadDistance: 1
   cameraSpeed: 1
 --- !u!114 &1667030351
