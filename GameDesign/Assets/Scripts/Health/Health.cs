@@ -43,16 +43,6 @@ public class Health : MonoBehaviour
                     GetComponent<PlayerMovement>().enabled = false;
                 }
 
-                if (GetComponentInParent<EnemyPatrol>() != null)
-                {
-                    GetComponentInParent<EnemyPatrol>().enabled = false;
-                }
-
-                if (GetComponent<EnemyMovement>() != null)
-                {
-                    GetComponent<EnemyMovement>().enabled = false;
-                }
-
                 rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
                 
 

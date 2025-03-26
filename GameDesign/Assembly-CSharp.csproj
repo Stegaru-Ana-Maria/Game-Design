@@ -61,7 +61,6 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.39f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\SwitchController.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
     <Compile Include="Assets\Scripts\CheckPointInteraction.cs" />
@@ -70,17 +69,46 @@
     <Compile Include="Assets\Scripts\HealthBox.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
     <Compile Include="Assets\Scripts\DoorController.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\Enemy\EnemyMovement.cs" />
-=======
+    <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
+    <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
     <Compile Include="Assets\Scripts\LadderMovement.cs" />
->>>>>>> 5d638383fec0574798a22124e159a515cb163bf8
+    <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\Laser.cs" />
+    <Compile Include="Assets\NextLevelTrigger.cs" />
+    <Compile Include="Assets\Scripts\Main Scene\TitleScreenManager.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
+    <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
+    <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Fonts\monogram\credits.txt" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Fonts\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
