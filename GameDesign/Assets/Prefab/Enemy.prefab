@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 4450394864026204711}
   - component: {fileID: 3544122187401567273}
   - component: {fileID: 4510938504619312989}
-  - component: {fileID: 5193190204402720774}
   - component: {fileID: 8710729061742121124}
-  - component: {fileID: 2026818039641800859}
   - component: {fileID: 6404835606384102972}
+  - component: {fileID: 3174457374093731673}
+  - component: {fileID: 6514403797844974524}
   m_Layer: 9
   m_Name: Enemy
   m_TagString: Enemy
@@ -30,13 +30,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3861299752886695456}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 54.19, y: -1.93, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3544122187401567273
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -138,26 +138,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.5145162, y: 0.79917705}
   m_EdgeRadius: 0
---- !u!114 &5193190204402720774
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3861299752886695456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80fb976ce4f93dc49acf5988a31a79e8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  attackCooldown: 2
-  range: 0.9
-  damage: 1
-  colliderDistance: 0.35
-  boxCollider: {fileID: 4510938504619312989}
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 512
 --- !u!95 &8710729061742121124
 Animator:
   serializedVersion: 7
@@ -180,19 +160,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &2026818039641800859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3861299752886695456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13ef9950855c5994781fa7bd84676268, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  startingHealth: 3
 --- !u!50 &6404835606384102972
 Rigidbody2D:
   serializedVersion: 5
@@ -201,11 +168,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3861299752886695456}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 5
+  m_Mass: 1000
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
@@ -218,5 +185,47 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!114 &3174457374093731673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861299752886695456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cbe0f7c3d28b914c963fbe314c39156, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 3
+--- !u!114 &6514403797844974524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861299752886695456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2cb8cd5d475094c983f4cbf18b8564, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  anim: {fileID: 8710729061742121124}
+  enemy: {fileID: 4450394864026204711}
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  detectionRange: 10
+  attackRange: 2
+  damage: 1
+  attackCooldown: 2
+  knockbackForce: 7
+  patrolPointA: {fileID: 0}
+  patrolPointB: {fileID: 0}
+  patrolSpeed: 4
+  idleDuration: 2
+  chaseSpeed: 6
+  stopChaseDistance: 15

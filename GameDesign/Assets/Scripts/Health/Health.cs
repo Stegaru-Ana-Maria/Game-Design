@@ -43,16 +43,6 @@ public class Health : MonoBehaviour
                     GetComponent<PlayerMovement>().enabled = false;
                 }
 
-                if (GetComponentInParent<EnemyPatrol>() != null)
-                {
-                    GetComponentInParent<EnemyPatrol>().enabled = false;
-                }
-
-                if (GetComponent<EnemyMovement>() != null)
-                {
-                    GetComponent<EnemyMovement>().enabled = false;
-                }
-
                 rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
                 
 
@@ -93,5 +83,14 @@ public class Health : MonoBehaviour
     private void Deactivate() // pt inamici
     {
         gameObject.SetActive(false);
+    }
+
+    public void ApplyKnockback(Vector2 force)
+    {
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.AddForce(force, ForceMode2D.Impulse);
+        }
     }
 }

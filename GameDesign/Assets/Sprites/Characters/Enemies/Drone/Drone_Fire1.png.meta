@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 078cd96dba7c10242916989e8f96a36e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2844715059412685891
+    second: Drone_Fire1_0
+  - first:
+      213: 3332521922013205385
+    second: Drone_Fire1_1
+  - first:
+      213: 2423846426635230321
+    second: Drone_Fire1_2
+  - first:
+      213: 7318885268458496257
+    second: Drone_Fire1_3
+  - first:
+      213: -1845959259312159851
+    second: Drone_Fire1_4
+  - first:
+      213: 8756983989668008674
+    second: Drone_Fire1_5
+  - first:
+      213: 2424064456334181076
+    second: Drone_Fire1_6
+  - first:
+      213: 7181264953540425180
+    second: Drone_Fire1_7
+  - first:
+      213: -701891783794794640
+    second: Drone_Fire1_8
+  - first:
+      213: 5914577630221452015
+    second: Drone_Fire1_9
+  - first:
+      213: -8463107367736877667
+    second: Drone_Fire1_10
+  - first:
+      213: 1170457224535204081
+    second: Drone_Fire1_11
+  - first:
+      213: -6703643482491506143
+    second: Drone_Fire1_12
+  - first:
+      213: -1110487359317807714
+    second: Drone_Fire1_13
+  - first:
+      213: -2594885849483986466
+    second: Drone_Fire1_14
+  - first:
+      213: 1450895884562262201
+    second: Drone_Fire1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drone_Fire1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3445f7b46457a7720800000000000000
+      internalID: 2844715059412685891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9839cc7180f7f3e20800000000000000
+      internalID: 3332521922013205385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c51b1ab7b33a120800000000000000
+      internalID: 2423846426635230321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 12
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101ee42ef57e19560800000000000000
+      internalID: 7318885268458496257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5930bde75d5d166e0800000000000000
+      internalID: -1845959259312159851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 14
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d1f7ca8e078970800000000000000
+      internalID: 8756983989668008674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20370a7c104a120800000000000000
+      internalID: 2424064456334181076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 12
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53db16d6af8a360800000000000000
+      internalID: 7181264953540425180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f552434216246f0800000000000000
+      internalID: -701891783794794640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 14
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe242d5940dc41250800000000000000
+      internalID: 5914577630221452015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 13
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d5d0240b00d8a80800000000000000
+      internalID: -8463107367736877667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 12
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e535f4ac4e3010800000000000000
+      internalID: 1170457224535204081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 11
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223b3525cfd7f2a0800000000000000
+      internalID: -6703643482491506143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dec4c51a1c690f0800000000000000
+      internalID: -1110487359317807714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 11
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9b1d4711d1dfbd0800000000000000
+      internalID: -2594885849483986466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Fire1_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 10
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8e86dae1e922410800000000000000
+      internalID: 1450895884562262201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Drone_Fire1_0: 2844715059412685891
+      Drone_Fire1_1: 3332521922013205385
+      Drone_Fire1_10: -8463107367736877667
+      Drone_Fire1_11: 1170457224535204081
+      Drone_Fire1_12: -6703643482491506143
+      Drone_Fire1_13: -1110487359317807714
+      Drone_Fire1_14: -2594885849483986466
+      Drone_Fire1_15: 1450895884562262201
+      Drone_Fire1_2: 2423846426635230321
+      Drone_Fire1_3: 7318885268458496257
+      Drone_Fire1_4: -1845959259312159851
+      Drone_Fire1_5: 8756983989668008674
+      Drone_Fire1_6: 2424064456334181076
+      Drone_Fire1_7: 7181264953540425180
+      Drone_Fire1_8: -701891783794794640
+      Drone_Fire1_9: 5914577630221452015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

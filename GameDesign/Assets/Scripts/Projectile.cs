@@ -31,7 +31,7 @@ public class Projectile : MonoBehaviour
         anim.SetTrigger("explode");
 
         if (collision.tag == "Enemy")
-            collision.GetComponent<Health>().TakeDamage(1);
+            collision.GetComponent<EnemyHealth>().TakeDamage(1);
         if (collision.CompareTag("Ground"))
         {
             hit = true;
