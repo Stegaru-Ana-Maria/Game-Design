@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
-  - Acid
   - Ladder
   - Object
-  - Laser
   - Enemy
+  - Vent
+  - Box
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -22,10 +23,10 @@ TagManager:
   - Object
   - Player
   - Ladder
-  - Acid
-  - Laser
+  - Trap
+  - Projectile
   - Enemy
-  - 
+  - CameraBounds
   - 
   - 
   - 

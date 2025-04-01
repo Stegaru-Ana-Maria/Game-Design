@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     private BoxCollider2D boxCollider;
     private Animator anim;
     public GameObject attackPoint;
-    public float radius;
+    public Vector2 boxSize;
     public LayerMask enemies;
     public float punchingDamage;
     public float fallGravity;
@@ -76,18 +76,27 @@ public class PlayerMovement : MonoBehaviour
 
     public void punch()
     {
-        Collider2D[] enemy = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, enemies);
+        Collider2D[] enemy = Physics2D.OverlapBoxAll(attackPoint.transform.position, boxSize, 0, enemies);
 
         foreach (Collider2D enemyGameObject in enemy)
         {
-            Debug.Log("Hit enemy");
-            enemyGameObject.GetComponent<HealthBox>().health -= punchingDamage;
+            if (enemyGameObject.CompareTag("Enemy"))
+            {
+                Debug.Log("You hit an enemy...");
+                enemyGameObject.GetComponent<EnemyHealth>().TakeDamage(1);
+
+            }
+            else if (enemyGameObject.CompareTag("Box"))
+            {
+                Debug.Log("You hit a box...");
+                enemyGameObject.GetComponent<HealthBox>().health -= punchingDamage;
+            }
         }
     }
 
     private void OnDrawGizmos()
     {
-        Gizmos.DrawWireSphere(attackPoint.transform.position, radius);
+        Gizmos.DrawWireCube(attackPoint.transform.position, boxSize);
     }
 
     private void FixedUpdate()

@@ -223,10 +223,10 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   attackPoint: {fileID: 6414143430498527164}
-  radius: 0.5
+  boxSize: {x: 0.75, y: 0.6}
   enemies:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 8448
   punchingDamage: 10
   fallGravity: 2
   gravity: 1
