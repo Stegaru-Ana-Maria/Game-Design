@@ -38,6 +38,12 @@ public class Projectile : MonoBehaviour
             boxCollider.enabled = false;
             anim.SetTrigger("explode");
         }
+
+        if (collision.gameObject.CompareTag("Boss"))
+        {
+            collision.gameObject.GetComponent<BossHealth>().TakeDamage(3);
+        }
+
     }
     public void SetDirection(float _direction)
     {

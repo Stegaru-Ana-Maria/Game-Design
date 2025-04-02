@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 9c43932a664e0dc46bb2c1f04c4ff20e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7680444493879073158
+    second: Level1Boss-Heavy attack laser -Sheet_0
+  - first:
+      213: 266820799028129902
+    second: Level1Boss-Heavy attack laser -Sheet_1
+  - first:
+      213: 4026078918105114005
+    second: Level1Boss-Heavy attack laser -Sheet_2
+  - first:
+      213: 4409440532240429417
+    second: Level1Boss-Heavy attack laser -Sheet_3
+  - first:
+      213: -1354351095500877705
+    second: Level1Boss-Heavy attack laser -Sheet_4
+  - first:
+      213: 932064225232623794
+    second: Level1Boss-Heavy attack laser -Sheet_5
+  - first:
+      213: 7921911316345445591
+    second: Level1Boss-Heavy attack laser -Sheet_6
+  - first:
+      213: 3520481585061530904
+    second: Level1Boss-Heavy attack laser -Sheet_7
+  - first:
+      213: 7733804729866424427
+    second: Level1Boss-Heavy attack laser -Sheet_8
+  - first:
+      213: 3833021640074056720
+    second: Level1Boss-Heavy attack laser -Sheet_9
+  - first:
+      213: -6197340067922304091
+    second: Level1Boss-Heavy attack laser -Sheet_10
+  - first:
+      213: 8321398016093006913
+    second: Level1Boss-Heavy attack laser -Sheet_11
+  - first:
+      213: 8155497423880701782
+    second: Level1Boss-Heavy attack laser -Sheet_12
+  - first:
+      213: 5665580105178049234
+    second: Level1Boss-Heavy attack laser -Sheet_13
+  - first:
+      213: 6941433699865103498
+    second: Level1Boss-Heavy attack laser -Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68954ce039b669a60800000000000000
+      internalID: 7680444493879073158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f1c06a10f3b300800000000000000
+      internalID: 266820799028129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5952857e1718fd730800000000000000
+      internalID: 4026078918105114005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96176664dca713d30800000000000000
+      internalID: 4409440532240429417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705283bad0643de0800000000000000
+      internalID: -1354351095500877705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b817dc797b5fec00800000000000000
+      internalID: 932064225232623794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcdae0ce5840fd60800000000000000
+      internalID: 7921911316345445591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d85eb69534bd030800000000000000
+      internalID: 3520481585061530904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 0
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b609ce52d6ef35b60800000000000000
+      internalID: 7733804729866424427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014dff89fd0a13530800000000000000
+      internalID: 3833021640074056720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3223b0b00aef9a0800000000000000
+      internalID: -6197340067922304091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2ddf286b8b7370800000000000000
+      internalID: 8321398016093006913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657c50582b52e2170800000000000000
+      internalID: 8155497423880701782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da68af861f20ae40800000000000000
+      internalID: 5665580105178049234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Boss-Heavy attack laser -Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c82683c2de45060800000000000000
+      internalID: 6941433699865103498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 933ef18d1e044914b93f963beff89155
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level1Boss-Heavy attack laser -Sheet_0: 7680444493879073158
+      Level1Boss-Heavy attack laser -Sheet_1: 266820799028129902
+      Level1Boss-Heavy attack laser -Sheet_10: -6197340067922304091
+      Level1Boss-Heavy attack laser -Sheet_11: 8321398016093006913
+      Level1Boss-Heavy attack laser -Sheet_12: 8155497423880701782
+      Level1Boss-Heavy attack laser -Sheet_13: 5665580105178049234
+      Level1Boss-Heavy attack laser -Sheet_14: 6941433699865103498
+      Level1Boss-Heavy attack laser -Sheet_2: 4026078918105114005
+      Level1Boss-Heavy attack laser -Sheet_3: 4409440532240429417
+      Level1Boss-Heavy attack laser -Sheet_4: -1354351095500877705
+      Level1Boss-Heavy attack laser -Sheet_5: 932064225232623794
+      Level1Boss-Heavy attack laser -Sheet_6: 7921911316345445591
+      Level1Boss-Heavy attack laser -Sheet_7: 3520481585061530904
+      Level1Boss-Heavy attack laser -Sheet_8: 7733804729866424427
+      Level1Boss-Heavy attack laser -Sheet_9: 3833021640074056720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
