@@ -1,3 +1,4 @@
+using System.Linq;
 using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
@@ -10,29 +11,64 @@ public class PlayerAttack : MonoBehaviour
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
 
+    [Header("ENERGY INFORMATION")]
+    public int maxEnergy;
+    public int currentEnergy;
+    [SerializeField] int energyRegenerationAmount = 1;
+    public float energyRegenerationTimer = 0;
+    public float energyTickerTimer = 0;
+
     private void Awake()
     {
         anim = GetComponent<Animator>();
         playerMovement = GetComponent<PlayerMovement>();
+        maxEnergy = projectiles.Count() * 10;
+        currentEnergy = maxEnergy;
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.C) && cooldownTimer > attackCooldown && playerMovement.canAttack())
-            Attack();
+            HandleAttack();
 
         cooldownTimer += Time.deltaTime;
+        RegenerateEnergy();
     }
 
-    private void Attack()
+    private void HandleAttack()
     {
-        anim.SetTrigger("shoot");
-        cooldownTimer = 0;
+        if (currentEnergy > 9)
+        {
+            anim.SetTrigger("shoot");
+            cooldownTimer = 0;
 
-        projectiles[FindFireball()].transform.position = FirePoint.position;
-        projectiles[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+            projectiles[FindBullet()].transform.position = FirePoint.position;
+            projectiles[FindBullet()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+            currentEnergy -= 10;
+
+            Debug.Log("Shooting laser...");
+        }
+        else
+        {
+            Debug.Log("NOT ENOUGH AMMUNITION TO SHOOT ! PLEASE WAIT !");
+        }
+
     }
-    private int FindFireball()
+    public virtual void RegenerateEnergy()
+    {
+        if (currentEnergy < maxEnergy)
+        {
+            energyTickerTimer += Time.deltaTime;
+
+            if (energyTickerTimer >= 1)
+            {
+                energyTickerTimer = 0;
+                currentEnergy += energyRegenerationAmount;
+            }
+        }
+    }
+
+    private int FindBullet()
     {
         for (int i = 0; i < projectiles.Length; i++)
         {

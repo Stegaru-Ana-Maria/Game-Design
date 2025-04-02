@@ -4,8 +4,8 @@ using UnityEngine;
 public class DoorController : MonoBehaviour
 {
     private Animator animator;
-    private bool isOpen = false;
-    private bool doorShouldOpen = false;
+    public bool isOpen = false;
+    public bool doorShouldOpen = false;
 
     private void Awake()
     {
@@ -24,7 +24,7 @@ public class DoorController : MonoBehaviour
 
     public void SetDoorToOpen()
     {
-        doorShouldOpen = true; 
+        doorShouldOpen = true;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -32,8 +32,8 @@ public class DoorController : MonoBehaviour
         if (doorShouldOpen && other.CompareTag("Player"))
         {
             isOpen = true;
-            animator.SetBool("open", isOpen); 
-            doorShouldOpen = false; 
+            animator.SetBool("open", isOpen);
+            doorShouldOpen = false;
         }
     }
 }

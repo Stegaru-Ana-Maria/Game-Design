@@ -9,10 +9,10 @@ public class Healthbar : MonoBehaviour
 
     private void Start()
     {
-        totalhealthBar.fillAmount = playerHealth.currentHealth / 5;
+        totalhealthBar.fillAmount = playerHealth.currentHealth / 6;
     }
     private void Update()
     {
-        currenthealthBar.fillAmount = playerHealth.currentHealth / 5;
+        currenthealthBar.fillAmount = playerHealth.currentHealth / 6;
     }
 }
