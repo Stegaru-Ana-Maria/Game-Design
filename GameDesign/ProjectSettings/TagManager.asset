@@ -8,13 +8,10 @@ TagManager:
   - Ladder
   - Object
   - Enemy
-<<<<<<< HEAD
-  - Boss
-=======
   - Vent
   - Box
   - Door
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -30,12 +27,8 @@ TagManager:
   - Trap
   - Projectile
   - Enemy
-<<<<<<< HEAD
-  - Boss
-=======
   - CameraBounds
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
-  - 
+  - Boss
   - 
   - 
   - 

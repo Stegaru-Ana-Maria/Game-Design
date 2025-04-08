@@ -62,28 +62,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Grid\Node.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
-    <Compile Include="Assets\Scripts\SwitchController.cs" />
-    <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
-    <Compile Include="Assets\Scripts\CheckPointInteraction.cs" />
-    <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
-    <Compile Include="Assets\Scripts\Behavior Trees\BTNode.cs" />
-=======
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\DoorController.cs" />
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
+    <Compile Include="Assets\Scripts\Behavior Trees\BTNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\PatrolState.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Selector.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Repeater.cs" />
     <Compile Include="Assets\Scripts\KillPlayer.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\HealthBox.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ParallelNode.cs" />
-=======
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
     <Compile Include="Assets\Scripts\Enemies\Drone\ChaseState.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneFSM.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Inverter.cs" />
@@ -94,27 +83,16 @@
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyState.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Box\HealthBox.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\DoorController.cs" />
-=======
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
     <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\AttackState.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\EnergyBar.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyChaseState.cs" />
     <Compile Include="Assets\Scripts\Grid\PathRequestManager.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
-    <Compile Include="Assets\Scripts\LadderMovement.cs" />
-    <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
-=======
     <Compile Include="Assets\Scripts\Player Resources\Projectile.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\SwitchController.cs" />
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyFSM.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossAI.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\ChaseNode.cs" />
@@ -123,26 +101,17 @@
     <Compile Include="Assets\NextLevelTrigger.cs" />
     <Compile Include="Assets\Scripts\Main Scene\TitleScreenManager.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\BossHealthNode.cs" />
-    <Compile Include="Assets\Scripts\Grid\Grid.cs" />
-    <Compile Include="Assets\Scripts\Projectile.cs" />
-    <Compile Include="Assets\Scripts\Behavior Trees\ConditionNode.cs" />
-    <Compile Include="Assets\Scripts\Health\Health.cs" />
-=======
     <Compile Include="Assets\Scripts\Player Resources\Health.cs" />
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
+    <Compile Include="Assets\Scripts\Behavior Trees\ConditionNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Checkpoint\CheckPointInteraction.cs" />
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
     <Compile Include="Assets\Scripts\Grid\Unit.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneState.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
-=======
     <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Grid\Heap.cs" />
   </ItemGroup>

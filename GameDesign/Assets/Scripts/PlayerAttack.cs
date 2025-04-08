@@ -40,11 +40,6 @@ public class PlayerAttack : MonoBehaviour
         if (currentEnergy > 9)
         {
             anim.SetTrigger("shoot");
-            cooldownTimer = 0;
-
-            projectiles[FindBullet()].transform.position = FirePoint.position;
-            projectiles[FindBullet()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
-            currentEnergy -= 10;
 
             Debug.Log("Shooting laser...");
         }
@@ -52,6 +47,15 @@ public class PlayerAttack : MonoBehaviour
         {
             Debug.Log("NOT ENOUGH AMMUNITION TO SHOOT ! PLEASE WAIT !");
         }
+
+    }
+
+    private void FireProjectile()
+    {
+        cooldownTimer = 0;
+        projectiles[FindBullet()].transform.position = FirePoint.position;
+        projectiles[FindBullet()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+        currentEnergy -= 10;
 
     }
     public virtual void RegenerateEnergy()
