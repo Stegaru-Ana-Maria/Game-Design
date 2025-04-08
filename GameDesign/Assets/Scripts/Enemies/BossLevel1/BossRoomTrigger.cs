@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BossRoomTrigger : MonoBehaviour
 {
-    [SerializeField] private BossAI bossAI;
+    [SerializeField] private Boss1AI bossAI;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

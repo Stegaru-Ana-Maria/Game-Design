@@ -4,6 +4,7 @@ using System.Collections;
 public class BossHealth : MonoBehaviour
 {
     [SerializeField] private float maxHP = 10f;
+    [SerializeField] private GameObject healEffect;
     private float currentHP;
     private Animator anim;
     private bool isDead = false;
@@ -23,13 +24,24 @@ public class BossHealth : MonoBehaviour
         currentHP -= damage;
         currentHP = Mathf.Clamp(currentHP, 0, maxHP);
         anim.SetTrigger("hurt");
-        Debug.Log("Enemy took damage: " + damage);
+        Debug.Log("Boss took damage: " + damage);
 
         if (currentHP <= 0)
         {
             Die();
         }
     }
+
+    public void Heal(float amount)
+    {
+        if (!isDead)
+        {
+            healEffect.SetActive(true);
+            currentHP = Mathf.Clamp(currentHP + amount, 0, maxHP);
+            Debug.Log("Boss healed: " + amount);
+        }
+    }
+
 
     private void Die()
     {

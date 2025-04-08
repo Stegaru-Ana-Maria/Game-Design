@@ -56,6 +56,13 @@ public class Projectile : MonoBehaviour
             hit = true;
             boxCollider.enabled = false;
             anim.SetTrigger("explode");
+        }else if (collision.gameObject.CompareTag("Boss"))
+        {
+            Debug.Log("Shoot boss ...");
+            hit = true;
+            boxCollider.enabled = false;
+            anim.SetTrigger("explode");
+            collision.gameObject.GetComponent<BossHealth>().TakeDamage(3f);
         }
 
     }

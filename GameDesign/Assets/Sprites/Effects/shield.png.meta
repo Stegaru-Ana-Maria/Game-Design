@@ -1,43 +1,85 @@
 fileFormatVersion: 2
-guid: 0f65c0572e795a944b86db63f0bbc9e1
+guid: 3ea34e85ff78e1a4cb7adf39d5df0183
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7077950245503451599
-    second: Level1Boss-Light attack slash-Sheet_0
+      213: 2389193319765324094
+    second: shield_0
   - first:
-      213: 2654529742558134397
-    second: Level1Boss-Light attack slash-Sheet_1
+      213: 5085415284296604745
+    second: shield_1
   - first:
-      213: 8587619550347285278
-    second: Level1Boss-Light attack slash-Sheet_2
+      213: 1691966074973790518
+    second: shield_2
   - first:
-      213: 999364226740491873
-    second: Level1Boss-Light attack slash-Sheet_3
+      213: -4135836072091612975
+    second: shield_3
   - first:
-      213: -1599623785272713673
-    second: Level1Boss-Light attack slash-Sheet_4
+      213: -7604838462600041511
+    second: shield_4
   - first:
-      213: -4292032717324425482
-    second: Level1Boss-Light attack slash-Sheet_5
+      213: -2326387718176073400
+    second: shield_5
   - first:
-      213: -2153616348816462562
-    second: Level1Boss-Light attack slash-Sheet_6
+      213: -7640969164507117352
+    second: shield_6
   - first:
-      213: 4554338797713750270
-    second: Level1Boss-Light attack slash-Sheet_7
+      213: 7640822524586941387
+    second: shield_7
   - first:
-      213: -5493405814530974906
-    second: Level1Boss-Light attack slash-Sheet_8
+      213: -6453787051673858669
+    second: shield_8
   - first:
-      213: -1109496543074639779
-    second: Level1Boss-Light attack slash-Sheet_9
+      213: -3019361257924403925
+    second: shield_9
   - first:
-      213: 4156931403846323442
-    second: Level1Boss-Light attack slash-Sheet_10
+      213: -7692592507366012451
+    second: shield_10
   - first:
-      213: -3495915963831281664
-    second: Level1Boss-Light attack slash-Sheet_11
+      213: 2536548511085074632
+    second: shield_11
+  - first:
+      213: -6880720000848392178
+    second: shield_12
+  - first:
+      213: -6411710812370774675
+    second: shield_13
+  - first:
+      213: -8391566782126530650
+    second: shield_14
+  - first:
+      213: 3419264202578727928
+    second: shield_15
+  - first:
+      213: -751347868484882285
+    second: shield_16
+  - first:
+      213: -3208461720741387023
+    second: shield_17
+  - first:
+      213: 4410620268090068078
+    second: shield_18
+  - first:
+      213: 5966984831636730540
+    second: shield_19
+  - first:
+      213: -6521942997921326431
+    second: shield_20
+  - first:
+      213: 536740593913241913
+    second: shield_21
+  - first:
+      213: 3257572751964099493
+    second: shield_22
+  - first:
+      213: -3402171037789071540
+    second: shield_23
+  - first:
+      213: -8061918755334583206
+    second: shield_24
+  - first:
+      213: 7390090002504109256
+    second: shield_25
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,265 +175,309 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_0
+      name: shield_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 38
-        height: 30
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13eb0e690c116cd90800000000000000
-      internalID: -7077950245503451599
+      spriteID: e3139547aae182120800000000000000
+      internalID: 2389193319765324094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_1
+      name: shield_1
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 62
-        height: 31
-      alignment: 9
-      pivot: {x: 0.26414922, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7003ee8cb8c6d420800000000000000
-      internalID: 2654529742558134397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 0
-        width: 56
-        height: 32
-      alignment: 9
-      pivot: {x: 0.1730611, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1356ac5b7a5d2770800000000000000
-      internalID: 8587619550347285278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 1
-        width: 16
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 166991828747edd00800000000000000
-      internalID: 999364226740491873
+      spriteID: 94c57d3e146039640800000000000000
+      internalID: 5085415284296604745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_4
+      name: shield_2
       rect:
         serializedVersion: 2
-        x: 201
+        x: 128
         y: 0
-        width: 55
-        height: 31
-      alignment: 9
-      pivot: {x: 0.1730611, y: 0.5}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73edd8874aefcc9e0800000000000000
-      internalID: -1599623785272713673
+      spriteID: 63123d64e221b7710800000000000000
+      internalID: 1691966074973790518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_5
+      name: shield_3
       rect:
         serializedVersion: 2
-        x: 262
+        x: 192
         y: 0
-        width: 19
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f6e587dbf2af64c0800000000000000
-      internalID: -4292032717324425482
+      spriteID: 1d88bb9410f8a96c0800000000000000
+      internalID: -4135836072091612975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_6
+      name: shield_4
       rect:
         serializedVersion: 2
-        x: 324
+        x: 256
         y: 0
-        width: 31
-        height: 30
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1d22525751dc12e0800000000000000
-      internalID: -2153616348816462562
+      spriteID: 9db2f7ed5bf267690800000000000000
+      internalID: -7604838462600041511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_7
+      name: shield_5
       rect:
         serializedVersion: 2
-        x: 383
+        x: 320
         y: 0
-        width: 38
-        height: 29
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef8f180b103443f30800000000000000
-      internalID: 4554338797713750270
+      spriteID: 849984032b207bfd0800000000000000
+      internalID: -2326387718176073400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_8
+      name: shield_6
       rect:
         serializedVersion: 2
-        x: 412
-        y: 4
-        width: 36
-        height: 26
+        x: 384
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64bd0d9548083c3b0800000000000000
-      internalID: -5493405814530974906
+      spriteID: 8d807d94703d5f590800000000000000
+      internalID: -7640969164507117352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_9
+      name: shield_7
       rect:
         serializedVersion: 2
         x: 448
         y: 0
-        width: 28
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d50238eb5c64a90f0800000000000000
-      internalID: -1109496543074639779
+      spriteID: bcbdec17a97a90a60800000000000000
+      internalID: 7640822524586941387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_10
+      name: shield_8
       rect:
         serializedVersion: 2
-        x: 486
-        y: 1
-        width: 27
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fc0de1661360b930800000000000000
-      internalID: 4156931403846323442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level1Boss-Light attack slash-Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 513
+        x: 512
         y: 0
-        width: 63
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 008183bf3f20c7fc0800000000000000
-      internalID: -3495915963831281664
+      spriteID: 39dc6f0ceda8f66a0800000000000000
+      internalID: -6453787051673858669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd6d4eee21916d0800000000000000
+      internalID: -3019361257924403925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90e942fdb6e3590800000000000000
+      internalID: -7692592507366012451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c895ce7e61a33320800000000000000
+      internalID: 2536548511085074632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0091866d95c280a0800000000000000
+      internalID: -6880720000848392178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65db12acf60507a0800000000000000
+      internalID: -6411710812370774675
       vertices: []
       indices: 
       edges: []
@@ -400,7 +486,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0cf2a2d67336d9a4b8646eabdff1b456
+    spriteID: 0bd26877bcae27d4a95a86544c79b374
     internalID: 0
     vertices: []
     indices: 
@@ -410,18 +496,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Level1Boss-Light attack slash-Sheet_0: -7077950245503451599
-      Level1Boss-Light attack slash-Sheet_1: 2654529742558134397
-      Level1Boss-Light attack slash-Sheet_10: 4156931403846323442
-      Level1Boss-Light attack slash-Sheet_11: -3495915963831281664
-      Level1Boss-Light attack slash-Sheet_2: 8587619550347285278
-      Level1Boss-Light attack slash-Sheet_3: 999364226740491873
-      Level1Boss-Light attack slash-Sheet_4: -1599623785272713673
-      Level1Boss-Light attack slash-Sheet_5: -4292032717324425482
-      Level1Boss-Light attack slash-Sheet_6: -2153616348816462562
-      Level1Boss-Light attack slash-Sheet_7: 4554338797713750270
-      Level1Boss-Light attack slash-Sheet_8: -5493405814530974906
-      Level1Boss-Light attack slash-Sheet_9: -1109496543074639779
+      shield_0: 2389193319765324094
+      shield_1: 5085415284296604745
+      shield_10: -7692592507366012451
+      shield_11: 2536548511085074632
+      shield_12: -6880720000848392178
+      shield_13: -6411710812370774675
+      shield_2: 1691966074973790518
+      shield_3: -4135836072091612975
+      shield_4: -7604838462600041511
+      shield_5: -2326387718176073400
+      shield_6: -7640969164507117352
+      shield_7: 7640822524586941387
+      shield_8: -6453787051673858669
+      shield_9: -3019361257924403925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

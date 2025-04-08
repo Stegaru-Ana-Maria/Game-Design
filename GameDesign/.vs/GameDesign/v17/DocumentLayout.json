@@ -1,39 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\Game-Design\\GameDesign\\",
+  "WorkspaceRootPath": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\enemies\\bosslevel1\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\enemies\\bosslevel1\\boss1ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\boss1ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\enemies\\drone\\dronefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\dronefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\nodes\\bosshealthnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\nodes\\bosshealthnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\effects\\healeffectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\healeffectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\enemies\\bosslevel1\\bossai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\bossai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\player resources\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player resources\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\bosslevel1\\lightattacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\lightattacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\nodes\\chasenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\nodes\\chasenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\conditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\conditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\behavior trees\\nodes\\laserattacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\nodes\\laserattacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\bosslevel1\\bossroomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\bossroomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\bosslevel1\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bosslevel1\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\nodes\\bosshealthnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\nodes\\bosshealthnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\actionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\conditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\conditionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\parallelnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,87 +79,20 @@
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\inverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\repeater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\repeater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\behavior trees\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behavior trees\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health\\Healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\ui scripts\\energybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\energybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\ui scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\VideoGame\\3DGame\\Assets\\Scripts\\Character\\Player\\PlayerStatsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\player resources\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player resources\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\drone\\dronefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\dronefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\enemy\\enemychasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy\\enemychasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\drone\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\enemy\\enemyfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy\\enemyfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\enemy\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\drone\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\drone\\dronestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\dronestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\healthbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\healthbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,105 +102,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAABIAAAA",
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:25:28.058Z",
+              "WhenOpened": "2025-04-08T14:34:10.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BossHealth.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAjAAAA",
+              "DocumentIndex": 1,
+              "Title": "DroneFSM.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:19:01.943Z",
-=======
-          "SelectedChildIndex": 3,
-          "Children": [
+              "WhenOpened": "2025-04-08T14:29:37.859Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnergyBar.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\EnergyBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\EnergyBar.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\EnergyBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\EnergyBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LightAttackNode.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\LightAttackNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\LightAttackNode.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\LightAttackNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\LightAttackNode.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAawE0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:42:02.829Z",
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
+              "WhenOpened": "2025-04-08T12:02:09.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Player Resources\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Resources\\Projectile.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Player Resources\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Resources\\Projectile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:23:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaserAttackNode.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\LaserAttackNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Nodes\\LaserAttackNode.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\LaserAttackNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Behavior Trees\\Nodes\\LaserAttackNode.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:20:19.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-<<<<<<< HEAD
+              "Title": "HealEffectController.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Effects\\HealEffectController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\HealEffectController.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Effects\\HealEffectController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\HealEffectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:05:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boss1AI.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAawGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:56:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BossRoomTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossRoomTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\BossRoomTrigger.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossRoomTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\BossRoomTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:48:00.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BossHealth.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\BossHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:19:01.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BossHealthNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\BossHealthNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Nodes\\BossHealthNode.cs",
               "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\BossHealthNode.cs",
               "RelativeToolTip": "Assets\\Scripts\\Behavior Trees\\Nodes\\BossHealthNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:10:46.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T21:10:46.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
               "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:08:35.092Z",
-              "EditorCaption": ""
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-01T21:08:35.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BossAI.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\BossAI.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\BossAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\BossLevel1\\BossAI.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAQwG4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:18:44.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ChaseNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\ChaseNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Nodes\\ChaseNode.cs",
               "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Nodes\\ChaseNode.cs",
               "RelativeToolTip": "Assets\\Scripts\\Behavior Trees\\Nodes\\ChaseNode.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAmwC0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:37:16.912Z"
+              "WhenOpened": "2025-04-01T13:37:16.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ConditionNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\ConditionNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\ConditionNode.cs",
@@ -256,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ActionNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\ActionNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\ActionNode.cs",
@@ -268,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ParallelNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\ParallelNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\ParallelNode.cs",
@@ -280,7 +294,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:47:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CooldownNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\CooldownNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\CooldownNode.cs",
@@ -292,19 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Repeater.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Repeater.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Repeater.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Repeater.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Behavior Trees\\Repeater.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:07:26.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Selector.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Selector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Selector.cs",
@@ -316,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Inverter.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Inverter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Inverter.cs",
@@ -328,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Sequence.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\Sequence.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\Sequence.cs",
@@ -340,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "BTNode.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Behavior Trees\\BTNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Behavior Trees\\BTNode.cs",
@@ -352,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Healthbar.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Healthbar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Healthbar.cs",
@@ -360,11 +374,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Health\\Healthbar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:20:07.257Z"
+              "WhenOpened": "2025-04-03T17:47:55.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Health\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
@@ -372,200 +386,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T08:56:55.961Z"
-=======
-              "Title": "Healthbar.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:42:13.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerStatsManager.cs",
-              "DocumentMoniker": "C:\\Users\\a\\VideoGame\\3DGame\\Assets\\Scripts\\Character\\Player\\PlayerStatsManager.cs",
-              "RelativeDocumentMoniker": "..\\..\\VideoGame\\3DGame\\Assets\\Scripts\\Character\\Player\\PlayerStatsManager.cs",
-              "ToolTip": "C:\\Users\\a\\VideoGame\\3DGame\\Assets\\Scripts\\Character\\Player\\PlayerStatsManager.cs",
-              "RelativeToolTip": "..\\..\\VideoGame\\3DGame\\Assets\\Scripts\\Character\\Player\\PlayerStatsManager.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:13:50.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerAttack.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Player Resources\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Resources\\Projectile.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Player Resources\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player Resources\\Projectile.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:07:42.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EnemyPatrolState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyPatrolState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy\\EnemyPatrolState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyPatrolState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy\\EnemyPatrolState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EnemyState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy\\EnemyState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy\\EnemyState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnemyFSM.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyFSM.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy\\EnemyFSM.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyFSM.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy\\EnemyFSM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\EnemyHealth.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChaseState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\ChaseState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\ChaseState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\ChaseState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\ChaseState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnemyChaseState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyChaseState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy\\EnemyChaseState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\EnemyChaseState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy\\EnemyChaseState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HealthBox.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\HealthBox.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBox.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\HealthBox.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:35:17.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DroneFSM.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\DroneFSM.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AttackState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\AttackState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy\\AttackState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Enemy\\AttackState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy\\AttackState.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PatrolState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DroneState.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\DroneState.cs",
-              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\DroneState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\DroneState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:38:23.918Z"
->>>>>>> adaee980fe99b3f8a14f66fabfda436ade71ed54
+              "WhenOpened": "2025-04-03T17:47:55.365Z"
             }
           ]
         }
