@@ -22,6 +22,13 @@ public class SaveProgressManager : MonoBehaviour
     [Header("SCENE INDEX")]
     public int currentSceneIndex = 0;
 
+    [Header("LEVEL SCENE INDEX")]
+    public int testing_scene_index;
+    public int prototype_scene_index;
+    public int level_00_scene_index;
+    public int level_01_scene_index;
+    public int level_02_scene_index;
+
     private void Awake()
     {
         // there can only be one instance of this script at one time, if another one exists, destroy it
@@ -33,7 +40,6 @@ public class SaveProgressManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-
     }
 
     //public void AssignNextLevelTrigger(NextLevelTrigger newTrigger)
@@ -94,22 +100,18 @@ public class SaveProgressManager : MonoBehaviour
         switch (currentSceneIndex)
         {
             case 1:
-                currentProgression.level_1_unlocked = true;
+                currentProgression.level_01_unlocked = true;
                 break;
             case 2:
-                currentProgression.level_2_unlocked = true;
-                break;
-            case 3:
-                currentProgression.level_3_unlocked = true;
+                currentProgression.level_02_unlocked = true;
                 break;
             default:
                 break;
         }
-
         //write that info onto a json file, saved to this machine
         saveFileDataWriter.UpdateProgresisonFile(currentProgression);
-
     }
+
     public IEnumerator LoadLevelScene(int newSceneIndex)
     {
         currentSceneIndex = newSceneIndex;

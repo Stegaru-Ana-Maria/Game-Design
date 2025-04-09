@@ -107,6 +107,7 @@
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\BossHealthNode.cs" />
     <Compile Include="Assets\Scripts\Player Resources\Health.cs" />
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
+    <Compile Include="Assets\Scripts\Enums.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ConditionNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Checkpoint\CheckPointInteraction.cs" />
     <Compile Include="Assets\Scripts\Grid\Unit.cs" />

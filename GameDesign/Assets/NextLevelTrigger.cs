@@ -4,11 +4,11 @@ public class NextLevelTrigger : MonoBehaviour
 {
 
     private bool hasTriggered = false;
-    [SerializeField] int nextLevelScene = 2;
+    [SerializeField] int nextLevelScene;
 
     private void Awake()
     {
-        //SaveProgressManager.instance.AssignNextLevelTrigger(this);
+        nextLevelScene = SaveProgressManager.instance.currentSceneIndex + 1;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -25,11 +25,6 @@ public class TitleScreenManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    public void StartLevel(int levelSceneIndex)
-    {
-        SaveProgressManager.instance.StartLevel(levelSceneIndex);
-    }
-
 
     public void OpenLoadGameMenu()
     {
