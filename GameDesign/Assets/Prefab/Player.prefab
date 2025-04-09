@@ -226,7 +226,7 @@ MonoBehaviour:
   boxSize: {x: 0.75, y: 0.6}
   enemies:
     serializedVersion: 2
-    m_Bits: 8448
+    m_Bits: 41216
   punchingDamage: 10
   fallGravity: 2
   gravity: 1
@@ -280,6 +280,7 @@ MonoBehaviour:
   gameObj: {fileID: 4834263299431027758}
   respawPoint: {fileID: 0}
   startingHealth: 5
+  newHealth: 0
   damagedMaterial: {fileID: 2100000, guid: ec6531fb7df5fdc4c8ddb2bb2d6b5820, type: 2}
 --- !u!114 &4991829408136722668
 MonoBehaviour:
@@ -320,6 +321,11 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  maxEnergy: 0
+  currentEnergy: 0
+  energyRegenerationAmount: 1
+  energyRegenerationTimer: 0
+  energyTickerTimer: 0
 --- !u!60 &6669910249289931374
 PolygonCollider2D:
   m_ObjectHideFlags: 0

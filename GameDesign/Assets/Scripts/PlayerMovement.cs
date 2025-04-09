@@ -91,6 +91,11 @@ public class PlayerMovement : MonoBehaviour
                 Debug.Log("You hit a box...");
                 enemyGameObject.GetComponent<HealthBox>().health -= punchingDamage;
             }
+            else if (enemyGameObject.CompareTag("Boss"))
+            {
+                Debug.Log("You hit the boss...");
+                enemyGameObject.GetComponent<BossHealth>().TakeDamage(1);
+            }
         }
     }
 
