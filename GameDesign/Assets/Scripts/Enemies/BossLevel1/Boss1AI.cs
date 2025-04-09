@@ -2,11 +2,8 @@ using UnityEngine;
 using System.Collections.Generic;
 using System.Collections;
 
-public class Boss1AI : MonoBehaviour
+public class Boss1AI : MonoBehaviour, IBossAI
 {
-    [SerializeField] private float attackRange = 3f;
-    [SerializeField] private float laserCooldownTime = 2f;
-
     [Header("Stats")]
     [SerializeField] private float maxHP = 10f;
     [SerializeField] public float currentHP;
@@ -148,7 +145,7 @@ public class Boss1AI : MonoBehaviour
             activateShield,
             approachAndAttack,
             deactivateShield,
-            heal
+            healCooldownNode
         });
 
 
@@ -191,10 +188,21 @@ public class Boss1AI : MonoBehaviour
         playerInRoom = isInRoom;
     }
 
+    public void SpawnProjectile()
+    {
+        GameObject proj = ObjectPool.Instance.GetFromPool(projectilePrefab);
+        if (proj != null)
+        {
+            proj.transform.position = projectileSpawnPoint.position;
+            float direction = Mathf.Sign(transform.localScale.x);
+            proj.GetComponent<Boss1Projectile>().SetDirection(direction);
+        }
+    }
+
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, attackRange);
+        Gizmos.DrawWireSphere(transform.position, attack1Range);
 
         Gizmos.color = Color.blue;
         Gizmos.DrawWireSphere(transform.position, laserAttackRange);

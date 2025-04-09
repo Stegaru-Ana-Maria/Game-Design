@@ -62,7 +62,7 @@ public class Projectile : MonoBehaviour
             hit = true;
             boxCollider.enabled = false;
             anim.SetTrigger("explode");
-            collision.gameObject.GetComponent<BossHealth>().TakeDamage(3f);
+            collision.gameObject.GetComponent<BossHealth>().TakeDamage(2.5f);
         }
 
     }

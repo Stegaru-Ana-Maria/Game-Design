@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ParallelNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ChaseState.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Boss2\Boss2AI.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneFSM.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Inverter.cs" />
     <Compile Include="Assets\Scripts\Grid\Pathfinding.cs" />
@@ -83,6 +84,7 @@
     <Compile Include="Assets\Scripts\Behavior Trees\ActionNode.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\CooldownNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyState.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IBossAI.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Box\HealthBox.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
@@ -92,16 +94,19 @@
     <Compile Include="Assets\Scripts\Grid\PathRequestManager.cs" />
     <Compile Include="Assets\Scripts\Player Resources\Projectile.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
+    <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\SwitchController.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyFSM.cs" />
+    <Compile Include="Assets\Scripts\ObjectPool.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\ChaseNode.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\Laser.cs" />
     <Compile Include="Assets\NextLevelTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\LightAttackNode.cs" />
     <Compile Include="Assets\Scripts\Main Scene\TitleScreenManager.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Boss2\Boss2RoomTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1AI.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\BossHealthNode.cs" />
