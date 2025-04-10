@@ -80,6 +80,8 @@ public class Health : MonoBehaviour
         GetComponent<PlayerMovement>().enabled = true;
         rb.constraints = RigidbodyConstraints2D.None | RigidbodyConstraints2D.FreezeRotation;
         currentHealth = startingHealth;
+        anim.SetTrigger("grounded");
+
     }
 
     private void Deactivate() // pt inamici
