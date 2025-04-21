@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84db34989a404464da890aa7174a1bb4, type: 3}
+  m_Name: FirstNPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Robot
+  npcPortrait: {fileID: 21300000, guid: 7b30debe8d550c04894b793de65b1893, type: 3}
+  dialogLines:
+  - Buna!
+  - Tralalalla
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05

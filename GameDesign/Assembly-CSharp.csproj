@@ -62,9 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Grid\Node.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
+    <Compile Include="Assets\Scripts\PauseController.cs" />
     <Compile Include="Assets\Scripts\Effects\HealEffectController.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\LaserAttackNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\DoorController.cs" />
@@ -96,6 +98,7 @@
     <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
+    <Compile Include="Assets\Scripts\NPC\InteractionDetector.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\SwitchController.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyFSM.cs" />
@@ -109,6 +112,7 @@
     <Compile Include="Assets\Scripts\Enemies\Boss2\Boss2RoomTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1AI.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\NPC\IInteractable.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\BossHealthNode.cs" />
     <Compile Include="Assets\Scripts\Player Resources\Health.cs" />
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
@@ -122,6 +126,7 @@
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPC.cs" />
     <Compile Include="Assets\Scripts\Grid\Heap.cs" />
   </ItemGroup>
   <ItemGroup>

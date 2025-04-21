@@ -12,6 +12,7 @@ TagManager:
   - Box
   - Door
   - Boss
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -29,7 +30,7 @@ TagManager:
   - Enemy
   - CameraBounds
   - Boss
-  - 
+  - NPC
   - 
   - 
   - 
@@ -72,6 +73,9 @@ TagManager:
     locked: 0
   - name: Enemy
     uniqueID: 414999433
+    locked: 0
+  - name: NPC
+    uniqueID: 2644025585
     locked: 0
   - name: Player
     uniqueID: 2194403247
