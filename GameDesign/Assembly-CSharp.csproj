@@ -65,11 +65,8 @@
     <Compile Include="Assets\Scripts\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game Utility\PlayerTeleport.cs" />
-=======
     <Compile Include="Assets\Scripts\BackgroundController.cs" />
->>>>>>> 2151fc24e77031ae45f3fa85e6c18156371d5f01
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
     <Compile Include="Assets\Scripts\PauseController.cs" />
     <Compile Include="Assets\Scripts\Effects\HealEffectController.cs" />
@@ -134,6 +131,7 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\NPC\NPC.cs" />
     <Compile Include="Assets\Scripts\Grid\Heap.cs" />
+    <Compile Include="Assets\Scripts\UI Scripts\PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro.cginc" />
