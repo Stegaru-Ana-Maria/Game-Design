@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84db34989a404464da890aa7174a1bb4, type: 3}
+  m_Name: NPC_00_Dialogue_01
+  m_EditorClassIdentifier: 
+  npcName: NPC_00
+  npcPortrait: {fileID: 21300000, guid: fcce51bc7c20aba4b980fcef99dd5267, type: 2}
+  dialogLines:
+  - Oh hey ... please don't kill me. I'm not looking for trouble.
+  - I just saw you rising from that pile of bodies.
+  - You seems quite confused.
+  - Right now you are in X, the androids disposal pit. And the neighbourhood where
+    me and my fellow humans found shelter after the new laws ...
+  - You are an old model, an enforcer one judging by your design.
+  - Unfortunately you were decommissioned. But somehow you managed to wake up.
+  - 'You should go and check NPC_01. She''s in the building next door. Go straight
+    ahead and upstairs. '
+  - But be careful, radioactive residues were left on the ground after authorities
+    attempted to get rid of the old models by melting them.
+  autoProgressLines: 0101010101010101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
