@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
+    <Compile Include="Assets\Scripts\BackgroundController.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
     <Compile Include="Assets\Scripts\PauseController.cs" />
     <Compile Include="Assets\Scripts\Effects\HealEffectController.cs" />
