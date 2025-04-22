@@ -13,6 +13,7 @@ TagManager:
   - Door
   - Boss
   - NPC
+  - Teleporter
   layers:
   - Default
   - TransparentFX

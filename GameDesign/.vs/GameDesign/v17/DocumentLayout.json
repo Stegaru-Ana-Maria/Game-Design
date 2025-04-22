@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\game utility\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game utility\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\game utility\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game utility\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,11 +23,11 @@
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\npc\\interactiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\npc\\interactiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\interactiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -72,11 +80,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "PlayerTeleport.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Utility\\PlayerTeleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Utility\\PlayerTeleport.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Utility\\PlayerTeleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Utility\\PlayerTeleport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:00:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Utility\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Utility\\Teleporter.cs",
+              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Utility\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Utility\\Teleporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:39:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PauseController.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\PauseController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseController.cs",
@@ -84,12 +118,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PauseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:17:39.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T15:17:39.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "InteractionDetector.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\InteractionDetector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\InteractionDetector.cs",
@@ -97,12 +130,11 @@
               "RelativeToolTip": "Assets\\Scripts\\NPC\\InteractionDetector.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:10:27.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T14:10:27.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\IInteractable.cs",
@@ -110,25 +142,23 @@
               "RelativeToolTip": "Assets\\Scripts\\NPC\\IInteractable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAA+wAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:09:15.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T14:09:15.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NPC.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPC.cs",
               "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
               "RelativeToolTip": "Assets\\Scripts\\NPC\\NPC.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:05:28.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T14:05:28.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NPCDialogue.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPCDialogue.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPCDialogue.cs",
@@ -136,12 +166,11 @@
               "RelativeToolTip": "Assets\\Scripts\\NPC\\NPCDialogue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:03:05.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T14:03:05.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Boss2AI.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Boss2\\Boss2AI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Boss2\\Boss2AI.cs",
@@ -153,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Boss1AI.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\BossLevel1\\Boss1AI.cs",
@@ -165,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DoorController.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
@@ -177,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "NextLevelTrigger.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\NextLevelTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\NextLevelTrigger.cs",
@@ -189,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SaveFileDataWriter.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Progress Saving\\SaveFileDataWriter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Progress Saving\\SaveFileDataWriter.cs",
@@ -201,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SaveProgressManager.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
@@ -213,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SaveGameManager.cs",
               "DocumentMoniker": "C:\\Users\\a\\VideoGame\\3DGame\\Assets\\Scripts\\World Manager\\SaveGameManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\a\\VideoGame\\3DGame\\Assets\\Scripts\\World Manager\\SaveGameManager.cs",
@@ -225,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enums.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enums.cs",
@@ -237,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\a\\VideoGame\\3DGame\\Assets\\Scripts\\Enums.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\a\\VideoGame\\3DGame\\Assets\\Scripts\\Enums.cs",
@@ -249,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UI_Level_Load.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\UI Scripts\\UI_Level_Load.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\UI_Level_Load.cs",
@@ -261,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TitleScreenManager.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",

@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\PlayerTeleport.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
     <Compile Include="Assets\Scripts\PauseController.cs" />
     <Compile Include="Assets\Scripts\Effects\HealEffectController.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Assets\Scripts\Grid\Pathfinding.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ActionNode.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\Teleporter.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\CooldownNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyState.cs" />
     <Compile Include="Assets\Scripts\Enemies\IBossAI.cs" />
