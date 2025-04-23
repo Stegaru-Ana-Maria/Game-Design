@@ -13,23 +13,29 @@ public class AttackState : EnemyState
         enemy.anim.SetTrigger("attack");
         cooldownTimer = enemy.attackCooldown;
     }
-
     public override void UpdateState()
     {
         cooldownTimer -= Time.deltaTime;
 
-        if (!PlayerInAttackRange())
-        {
-            enemy.EnemyChangeState(new EnemyChaseState(enemy));
-            return;
-        }
-
         if (cooldownTimer <= 0)
         {
-            enemy.anim.SetTrigger("attack");
-            cooldownTimer = enemy.attackCooldown;
+            if (PlayerInAttackRange())
+            {
+                TryAttack();
+            }
+            else
+            {
+                enemy.EnemyChangeState(new EnemyChaseState(enemy));
+            }
         }
     }
+
+    private void TryAttack()
+    {
+        enemy.anim.SetTrigger("attack");
+        cooldownTimer = enemy.attackCooldown;
+    }
+
 
     public override void ExitState()
     {

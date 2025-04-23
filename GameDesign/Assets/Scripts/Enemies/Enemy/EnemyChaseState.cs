@@ -30,5 +30,8 @@ public class EnemyChaseState : EnemyState
         enemy.enemy.position += new Vector3(direction * enemy.chaseSpeed * Time.deltaTime, 0, 0);
     }
 
-    public override void ExitState() { }
+    public override void ExitState() 
+    {
+        enemy.anim.SetBool("moving", false);
+    }
 }

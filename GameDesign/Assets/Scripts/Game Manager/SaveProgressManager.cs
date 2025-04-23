@@ -112,6 +112,11 @@ public class SaveProgressManager : MonoBehaviour
         saveFileDataWriter.UpdateProgresisonFile(currentProgression);
     }
 
+    public void SaveSettings()
+    {
+
+    }
+
     public IEnumerator LoadLevelScene(int newSceneIndex)
     {
         currentSceneIndex = newSceneIndex;

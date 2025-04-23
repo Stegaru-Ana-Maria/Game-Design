@@ -8,5 +8,4 @@ public class LevelProgressionData
     public bool level_00_unlocked = true;
     public bool level_01_unlocked = false;
     public bool level_02_unlocked = false;
-
 }
