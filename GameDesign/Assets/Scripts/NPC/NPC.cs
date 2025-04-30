@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class NPC : MonoBehaviour, IInteractable
 {
-    [Header("Dialogue Settings")]
     public NPCDialogue dialogueData;
     public GameObject dialoguePanel;
     public TMP_Text dialogueText, nameText;
