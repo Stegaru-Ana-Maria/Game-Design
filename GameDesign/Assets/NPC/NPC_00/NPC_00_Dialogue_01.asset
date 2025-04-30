@@ -26,6 +26,8 @@ MonoBehaviour:
     ahead and upstairs. '
   - But be careful, radioactive residues were left on the ground after authorities
     attempted to get rid of the old models by melting them.
+  - And don't forget to check yourself in [E] at the panel, she doesn't like unexpected
+    visitors.
   autoProgressLines: 0101010101010101
   autoProgressDelay: 1.5
   typingSpeed: 0.05

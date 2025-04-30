@@ -9,10 +9,10 @@ Sprite:
   m_Name: Idle_0
   m_Rect:
     serializedVersion: 2
-    x: 6
+    x: 5
     y: 0
-    width: 22
-    height: 28
+    width: 19
+    height: 35
   m_Offset: {x: 0, y: 0}
   m_Border: {x: 0, y: 0, z: 0, w: 0}
   m_PixelsToUnits: 40
@@ -22,12 +22,12 @@ Sprite:
   m_AtlasName: 
   m_PackingTag: 
   m_RenderDataKey:
-    579565234e6e85a4890e986bee391949: 4723107735738678597
+    b50b27b3da977824aa803ca21925f6e8: 4723107735738678597
   m_AtlasTags: []
   m_SpriteAtlas: {fileID: 0}
   m_RD:
     serializedVersion: 3
-    texture: {fileID: 2800000, guid: 579565234e6e85a4890e986bee391949, type: 3}
+    texture: {fileID: 2800000, guid: b50b27b3da977824aa803ca21925f6e8, type: 3}
     alphaTexture: {fileID: 0}
     secondaryTextures: []
     m_SubMeshes:
@@ -103,22 +103,22 @@ Sprite:
         format: 0
         dimension: 0
       m_DataSize: 80
-      _typelessdata: cdcc8cbe3333b33e00000000cdcc8c3e3333b33e00000000cdcc8cbe3333b3be00000000cdcc8c3e3333b3be000000000000003d5555153f5555153e5555153f0000003d000000005555153e00000000
+      _typelessdata: 333373be0000e03e000000003333733e0000e03e00000000333373be0000e0be000000003333733e0000e0be000000005555d53cabaa3a3f0000003eabaa3a3f5555d53c000000000000003e00000000
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
-      x: 6
+      x: 5
       y: 0
-      width: 22
-      height: 28
+      width: 19
+      height: 35
     textureRectOffset: {x: 0, y: 0}
     atlasRectOffset: {x: -1, y: -1}
     settingsRaw: 64
-    uvTransform: {x: 40, y: 17, z: 40, w: 14}
+    uvTransform: {x: 40, y: 14.5, z: 40, w: 17.5}
     downscaleMultiplier: 1
   m_AtlasRD:
     serializedVersion: 3
-    texture: {fileID: 2800000, guid: 579565234e6e85a4890e986bee391949, type: 3}
+    texture: {fileID: 2800000, guid: b50b27b3da977824aa803ca21925f6e8, type: 3}
     alphaTexture: {fileID: 0}
     secondaryTextures: []
     m_SubMeshes:
@@ -194,27 +194,27 @@ Sprite:
         format: 0
         dimension: 0
       m_DataSize: 80
-      _typelessdata: cdcc8cbe3333b33e00000000cdcc8c3e3333b33e00000000cdcc8cbe3333b3be00000000cdcc8c3e3333b3be000000000000003d5555153f5555153e5555153f0000003d000000005555153e00000000
+      _typelessdata: 333373be0000e03e000000003333733e0000e03e00000000333373be0000e0be000000003333733e0000e0be000000005555d53cabaa3a3f0000003eabaa3a3f5555d53c000000000000003e00000000
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
-      x: 6
+      x: 5
       y: 0
-      width: 22
-      height: 28
+      width: 19
+      height: 35
     textureRectOffset: {x: 0, y: 0}
     atlasRectOffset: {x: -1, y: -1}
     settingsRaw: 64
-    uvTransform: {x: 40, y: 17, z: 40, w: 14}
+    uvTransform: {x: 40, y: 14.5, z: 40, w: 17.5}
     downscaleMultiplier: 1
   m_PhysicsShape:
-  - - {x: -0.1, y: 0.35}
-    - {x: -0.2, y: 0.25}
-    - {x: -0.275, y: 0.15}
-    - {x: -0.275, y: -0.35}
-    - {x: 0.275, y: -0.35}
-    - {x: 0.275, y: 0.3}
-    - {x: 0.2, y: 0.35}
+  - - {x: -0.1375, y: 0.4375}
+    - {x: -0.2375, y: 0.38750002}
+    - {x: -0.2375, y: -0.2875}
+    - {x: -0.1875, y: -0.4375}
+    - {x: 0.2375, y: -0.4375}
+    - {x: 0.2375, y: 0.3625}
+    - {x: 0.16250001, y: 0.4375}
   m_Bones: []
   m_ScriptableObjects: []
   m_SpriteID: 54d7a982679db8140800000000000000
