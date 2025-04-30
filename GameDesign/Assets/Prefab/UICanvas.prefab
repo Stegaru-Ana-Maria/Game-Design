@@ -616,6 +616,7 @@ GameObject:
   - component: {fileID: 5365420856257930425}
   - component: {fileID: 3657085382019629554}
   - component: {fileID: 32268197211013978}
+  - component: {fileID: 7876372895714514665}
   m_Layer: 5
   m_Name: Settings Button
   m_TagString: Untagged
@@ -737,6 +738,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &7876372895714514665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2018267298047361513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &3070742712815761237
 GameObject:
   m_ObjectHideFlags: 0
@@ -1556,6 +1570,7 @@ GameObject:
   - component: {fileID: 5143319999526089877}
   - component: {fileID: 7710298522439648145}
   - component: {fileID: 9001685146699736422}
+  - component: {fileID: 1870764118064798728}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1676,6 +1691,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1870764118064798728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5937939577187575421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &6128156025846494270
 GameObject:
   m_ObjectHideFlags: 0
@@ -2367,6 +2395,7 @@ GameObject:
   - component: {fileID: 4486770290827027347}
   - component: {fileID: 1918411452093650877}
   - component: {fileID: 3522093998379342240}
+  - component: {fileID: 6031898003455438213}
   m_Layer: 5
   m_Name: CloseButton
   m_TagString: Untagged
@@ -2487,6 +2516,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6031898003455438213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7657135115329217414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &7660277505001104505
 GameObject:
   m_ObjectHideFlags: 0
@@ -2499,6 +2541,7 @@ GameObject:
   - component: {fileID: 6245742645860929816}
   - component: {fileID: 2462258867198978201}
   - component: {fileID: 6362709253668023322}
+  - component: {fileID: 6874606702405135840}
   m_Layer: 5
   m_Name: Play Button
   m_TagString: Untagged
@@ -2620,6 +2663,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6874606702405135840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7660277505001104505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &7789751654073928954
 GameObject:
   m_ObjectHideFlags: 0
@@ -3130,6 +3186,7 @@ GameObject:
   - component: {fileID: 7692493778626377472}
   - component: {fileID: 6413062525713247767}
   - component: {fileID: 4931858448217821657}
+  - component: {fileID: 2610726262848291496}
   m_Layer: 5
   m_Name: Home Button
   m_TagString: Untagged
@@ -3251,6 +3308,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &2610726262848291496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8700484792934445404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &8764473487579625157
 GameObject:
   m_ObjectHideFlags: 0
@@ -3693,6 +3763,7 @@ GameObject:
   - component: {fileID: 8491053493608780727}
   - component: {fileID: 3209637763185994381}
   - component: {fileID: 806685514695421769}
+  - component: {fileID: 7250723408918077165}
   m_Layer: 5
   m_Name: CloseButton
   m_TagString: Untagged
@@ -3814,6 +3885,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &7250723408918077165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9085599027929331074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9ab2a91ad1647b27e6e69f79951b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundName: PressButton
 --- !u!1 &9186119056544462267
 GameObject:
   m_ObjectHideFlags: 0

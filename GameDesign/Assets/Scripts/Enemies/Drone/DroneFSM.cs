@@ -73,9 +73,6 @@ public class DroneFSM : MonoBehaviour
         }
     }
 
-
-
-
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;

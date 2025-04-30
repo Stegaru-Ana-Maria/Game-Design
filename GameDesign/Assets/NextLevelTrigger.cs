@@ -16,6 +16,7 @@ public class NextLevelTrigger : MonoBehaviour
         if (!hasTriggered && collision.CompareTag("Player"))
         {
             hasTriggered = true;
+            SoundEffectManager.Play("CompleteLevel");
             SaveProgressManager.instance.SaveGame();
             SaveProgressManager.instance.StartLevel(nextLevelScene);
         }

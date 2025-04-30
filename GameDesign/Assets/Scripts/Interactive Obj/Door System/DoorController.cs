@@ -20,6 +20,7 @@ public class DoorController : MonoBehaviour
     public void CloseDoor() 
     {
         animator.SetBool("open", false);
+        SoundEffectManager.Play("CloseDoor");
     }
 
     public void SetDoorToOpen()

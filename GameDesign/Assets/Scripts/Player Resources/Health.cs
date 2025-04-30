@@ -39,6 +39,7 @@ public class Health : MonoBehaviour
             {
                 anim.SetTrigger("grounded");
                 anim.SetTrigger("die");
+                SoundEffectManager.Play("Death");
 
                 if (GetComponent<PlayerMovement>() != null)
                 {
@@ -64,6 +65,7 @@ public class Health : MonoBehaviour
             {
                 hurt = false;
                 hurtTimer = damagedTime;
+                SoundEffectManager.Play("TakeDamage");
                 damagedMaterial.SetFloat("_ColorMask", (float)14);
             }
         }

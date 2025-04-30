@@ -35,12 +35,14 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.X) && IsGrounded())
         {
             anim.SetTrigger("isPunching");
+            SoundEffectManager.Play("PlayerAttack");
         }
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
             anim.SetBool("Jump",true);
+            SoundEffectManager.Play("Jump");
         }
         
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)

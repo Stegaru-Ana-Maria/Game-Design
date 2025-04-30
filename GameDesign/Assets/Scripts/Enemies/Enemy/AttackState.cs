@@ -11,6 +11,7 @@ public class AttackState : EnemyState
     {
         Debug.Log("Enemy switched to AttackState!");
         enemy.anim.SetTrigger("attack");
+        SoundEffectManager.Play("EnemyAttack");
         cooldownTimer = enemy.attackCooldown;
     }
     public override void UpdateState()

@@ -26,6 +26,7 @@ public class Boss1Projectile : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        SoundEffectManager.Play("Laser");
         if (collision.CompareTag("Ground"))
         {
             Debug.Log("Shoot ground ...");

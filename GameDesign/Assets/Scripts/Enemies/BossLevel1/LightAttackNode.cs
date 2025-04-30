@@ -63,6 +63,7 @@ public class LightAttackNode : BTNode
     private void StartAttack(float time)
     {
         animator.SetTrigger(animationTrigger);
+        SoundEffectManager.Play("EnemyAttack");
         attackStartTime = time;
         hasDealtDamage = false;
         isAttacking = true;

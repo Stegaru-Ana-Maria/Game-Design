@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\Sound\SoundEffectManager.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Repeater.cs" />
     <Compile Include="Assets\Scripts\KillPlayer.cs" />
+    <Compile Include="Assets\Scripts\UI Scripts\ButtonSoundPlayer.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ParallelNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ChaseState.cs" />

@@ -9,6 +9,7 @@ public class PlayerTeleport : MonoBehaviour
             Transform destination = collision.GetComponent<Teleporter>().GetDestination();
             if (destination != null)
             {
+                SoundEffectManager.Play("Teleport");
                 transform.position = destination.position;
             }
         }

@@ -32,6 +32,7 @@ public class CheckPointInteraction : MonoBehaviour
         {
             isActivated = true;
             animator.SetBool("isActivated", true);
+            SoundEffectManager.Play("Checkpoint");
             respawnPoint.transform.position = transform.position;
         }
 

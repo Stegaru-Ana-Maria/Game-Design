@@ -14,6 +14,7 @@ public class ChaseState : DroneState
     {
         Debug.Log("Intrat în starea de urmarire");
         enemy.anim.SetBool("moving", true);
+        SoundEffectManager.Play("Drone");
         RequestPathToPlayer();
     }
 
