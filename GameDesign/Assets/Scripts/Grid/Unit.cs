@@ -47,6 +47,12 @@ public class Unit : MonoBehaviour
         }
     }
 
+    public void StopPathFollowing()
+    {
+        StopCoroutine("FollowPath");
+        path = null;
+    }
+
     public void OnDrawGizmos()
     {
         if (path != null)

@@ -24,7 +24,7 @@ public class ChaseState : DroneState
 
         if (Vector2.Distance(enemy.enemy.position, enemy.player.position) > enemy.stopChaseDistance)
         {
-            enemy.ChangeState(new PatrolState(enemy));
+            enemy.ChangeState(new ReturnToPatrolState(enemy));
             return;
         }
 
@@ -54,5 +54,6 @@ public class ChaseState : DroneState
     public override void ExitState()
     {
         enemy.anim.SetBool("moving", false);
+        pathFollower.StopPathFollowing();
     }
 }
