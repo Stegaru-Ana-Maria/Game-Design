@@ -1,18 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class NPC : MonoBehaviour, IInteractable, IDialogueNPC
+public class NPC1 : MonoBehaviour, IInteractable, IDialogueNPC
 {
     public NPCDialogue dialogueData;
-
-    private int dialogueIndex;
-    private bool isDialogueActive;
+    public NPCDialogue dialogueData1;
+    public NPCDialogue dialogueData2;
 
     public NPCDialogue DialogueData => dialogueData;
     public int DialogueIndex => dialogueIndex;
+
+    private int dialogueIndex;
+    private bool isDialogueActive;
+    public GameObject enemyToCheck;
 
     public bool CanInteract()
     {
@@ -38,6 +42,18 @@ public class NPC : MonoBehaviour, IInteractable, IDialogueNPC
     {
         isDialogueActive = true;
         dialogueIndex = 0;
+
+        EnemyHealth enemyHealth = enemyToCheck != null ? enemyToCheck.GetComponent<EnemyHealth>() : null;
+
+        if (enemyHealth == null || enemyHealth.IsDead)
+        {
+            dialogueData = dialogueData2;
+        }
+        else
+        {
+            dialogueData = dialogueData1;
+        }
+
         DialogueManager.Instance.StartDialogue(this);
     }
     void NextLine()
@@ -55,7 +71,6 @@ public class NPC : MonoBehaviour, IInteractable, IDialogueNPC
             EndDialogue();
         }
     }
-
     void IDialogueNPC.NextLine()
     {
         NextLine();

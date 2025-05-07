@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\DoorController.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\BTNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\PatrolState.cs" />
+    <Compile Include="Assets\Scripts\NPC\IDialogueNPC.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Selector.cs" />
     <Compile Include="Assets\Scripts\Sound\SoundEffectManager.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Repeater.cs" />
@@ -94,6 +95,7 @@
     <Compile Include="Assets\Scripts\Enemies\IBossAI.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Box\HealthBox.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPC1.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\AttackState.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\EnergyBar.cs" />
@@ -106,6 +108,7 @@
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
     <Compile Include="Assets\Scripts\NPC\InteractionDetector.cs" />
     <Compile Include="Assets\Scripts\Sound\MusicManager.cs" />
+    <Compile Include="Assets\Scripts\NPC\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\SwitchController.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyFSM.cs" />

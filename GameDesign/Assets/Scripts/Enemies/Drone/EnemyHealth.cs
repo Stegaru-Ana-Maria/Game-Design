@@ -58,4 +58,6 @@ public class EnemyHealth : MonoBehaviour
             Destroy(gameObject, 1.5f);
         }
     }
+
+    public bool IsDead => isDead;
 }
