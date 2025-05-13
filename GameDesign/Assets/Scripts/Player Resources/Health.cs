@@ -99,4 +99,9 @@ public class Health : MonoBehaviour
             rb.AddForce(force, ForceMode2D.Impulse);
         }
     }
+
+    public bool isPlayerDead()
+    {
+        return dead;
+    }
 }
