@@ -17,10 +17,11 @@ public class ReturnToPatrolState : DroneState
     {
         FlipTowardsPatrolPoint();
 
-        if (Vector2.Distance(enemy.enemy.position, enemy.patrolPointB.position) < 1f)
+        if (Vector2.Distance(enemy.enemy.position, enemy.patrolPointB.position) < 1.5f)
         {
             enemy.ChangeState(new PatrolState(enemy));
         }
+        Debug.Log(Vector2.Distance(enemy.enemy.position, enemy.patrolPointB.position));
     }
 
     private void RequestPathToPatrolPoint()

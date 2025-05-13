@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\",
+  "WorkspaceRootPath": "C:\\Users\\a\\Game-Design\\GameDesign\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\enemies\\boss2\\boss2ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\boss2\\boss2ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,12 +14,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\stega\\onedrive\\desktop\\gd\\gamedesign\\assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\enemies\\drone\\returntopatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\returntopatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\npc\\npc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\enemies\\drone\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\drone\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\npc\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -60,10 +66,69 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\enemies\\boss2\\boss2roomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|c:\\users\\a\\game-design\\gamedesign\\assets\\scripts\\player resources\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player resources\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\enemies\\boss2\\boss2roomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\boss2\\boss2roomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\assets\\scripts\\ui scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\npc\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\interactive obj\\door system\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive obj\\door system\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\interactive obj\\door system\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive obj\\door system\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\ui scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\npc\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\npc\\npc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\npc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\npc\\idialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\idialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\main scene\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main scene\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\sound\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\sound\\soundeffectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundeffectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\sound\\soundeffectlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundeffectlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\game manager\\saveprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager\\saveprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|C:\\Users\\a\\Game-Design\\GameDesign\\assets\\scripts\\ui scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FF95E-0A6E-747C-C0BA-EEE4DD3E6067}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,6 +139,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -137,22 +203,61 @@
               "ViewState": "AQIAACgAAAAAAAAAAAAkwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T15:44:23.044Z"
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnToPatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\ReturnToPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\ReturnToPatrolState.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\ReturnToPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\ReturnToPatrolState.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:06:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Drone\\PatrolState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:25:21.941Z",
+              "EditorCaption": ""
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "NPC.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPC.cs",
               "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
               "RelativeToolTip": "Assets\\Scripts\\NPC\\NPC.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAswDwAAAAIAAAA",
+=======
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Player Resources\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Resources\\Health.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Player Resources\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Resources\\Health.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFkAAAAFAAAAAAAAAA==",
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:39:13.273Z",
+              "WhenOpened": "2025-05-07T22:58:34.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "NPCDialogue.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\NPC\\NPCDialogue.cs",
@@ -166,10 +271,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 5,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive Obj\\Door System\\DoorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:48:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwitchController.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Interactive Obj\\Door System\\SwitchController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive Obj\\Door System\\SwitchController.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Interactive Obj\\Door System\\SwitchController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive Obj\\Door System\\SwitchController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:47:51.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\DialogueManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:18:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "TitleScreenManager.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Main Scene\\TitleScreenManager.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAApwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,21 +323,25 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Healthbar.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\Healthbar.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\Healthbar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T13:21:58.622Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 15,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "SoundEffectLibrary.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundEffectLibrary.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,6 +349,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
               "Title": "NextLevelTrigger.cs",
               "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\NextLevelTrigger.cs",
@@ -214,22 +363,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "Boss2RoomTrigger.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Boss2\\Boss2RoomTrigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T17:20:28.192Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 4,
+              "Title": "NPCDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPCDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPCDialogue.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPCDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\NPCDialogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:39:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPC.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\NPC.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:39:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NPC1.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPC1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\NPC1.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\NPC1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\NPC1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:44:23.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDialogueNPC.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\IDialogueNPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\IDialogueNPC.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\NPC\\IDialogueNPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\IDialogueNPC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:58:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "MusicManager.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\MusicManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\MusicManager.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\MusicManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sound\\MusicManager.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAASwD8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,11 +441,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 14,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "SoundEffectManager.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectManager.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundEffectManager.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectManager.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Sound\\SoundEffectManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundEffectManager.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAcwCcAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,11 +457,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 16,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "SaveProgressManager.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game Manager\\SaveProgressManager.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAzwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,11 +473,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 17,
+>>>>>>> 954b7fd0b8ec3f022e406436951b1800bf9623d7
               "Title": "PauseMenu.cs",
-              "DocumentMoniker": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
-              "ToolTip": "C:\\Users\\stega\\OneDrive\\Desktop\\GD\\GameDesign\\Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\a\\Game-Design\\GameDesign\\Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\PauseMenu.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
