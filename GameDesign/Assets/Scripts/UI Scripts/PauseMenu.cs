@@ -23,7 +23,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void Settings()
     {
-        Time.timeScale = 1f;
+        Time.timeScale = 0f;
         settingsMenu.SetActive(true);
     }
     public void CloseSettings()

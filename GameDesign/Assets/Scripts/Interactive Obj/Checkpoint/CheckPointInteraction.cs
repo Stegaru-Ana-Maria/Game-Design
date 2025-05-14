@@ -28,7 +28,7 @@ public class CheckPointInteraction : MonoBehaviour
     }
     void Update()
     {
-        if(playerNear && Input.GetKeyDown(KeyCode.F) && !isActivated)
+        if(playerNear && Input.GetKeyDown(KeyCode.E) && !isActivated)
         {
             isActivated = true;
             animator.SetBool("isActivated", true);
