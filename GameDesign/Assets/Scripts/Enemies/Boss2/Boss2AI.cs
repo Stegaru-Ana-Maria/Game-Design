@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Boss2AI : MonoBehaviour, IBossAI
 {
@@ -43,6 +44,7 @@ public class Boss2AI : MonoBehaviour, IBossAI
     private bool playerInRoom = false;
     public bool isPerformingLaserAttack = false;
     private bool shieldActive = false;
+    private bool isDead = false;
 
 
     void Start()
@@ -250,6 +252,12 @@ public class Boss2AI : MonoBehaviour, IBossAI
         root?.Evaluate();
 
         currentHP = bossHealth.GetHealth();
+
+        if (!isDead && currentHP <= 0)
+        {
+            isDead = true;
+            SceneManager.LoadScene("FinalCutscene");
+        }
     }
 
     public float GetHealth()

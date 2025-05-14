@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 01.unity
     guid: e5160162c84ab774bad5057a15dd6366
   - enabled: 1
+    path: Assets/Scenes/Level 02.unity
+    guid: 8a1ba11ec4bbb404bb20271ac362e5c8
+  - enabled: 1
+    path: Assets/Scenes/FinalCutscene.unity
+    guid: d7c41935ba734404da64126e16278646
+  - enabled: 1
     path: Assets/Scenes/Prototype.unity
     guid: 8ac4c6b018476934f89fbf4708d0c7dc
   - enabled: 1
