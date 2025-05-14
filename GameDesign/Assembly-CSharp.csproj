@@ -134,6 +134,7 @@
     <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
+    <Compile Include="Assets\FirstBoosRoomDoorController.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ReturnToPatrolState.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />

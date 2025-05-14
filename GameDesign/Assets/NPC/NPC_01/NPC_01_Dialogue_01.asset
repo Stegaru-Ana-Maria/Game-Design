@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84db34989a404464da890aa7174a1bb4, type: 3}
   m_Name: NPC_01_Dialogue_01
   m_EditorClassIdentifier: 
-  npcName: NPC_01
+  npcName: Evethe
   npcPortrait: {fileID: 21300000, guid: 356fae1c02cce63499c038483fc7bdce, type: 2}
   dialogLines:
   - Hey! You don't seem from around here ...
-  - NPC_00 sent you to me? I see.
+  - Aaron sent you to me? I see.
   - And you look like an enforcer but a model I haven't seen before.
   - Still, I don't know if I can trust you ...
   - ... Look, you have to prove me that you are not one of them ...
   - Upstairs, an enforcer is camping the door. I've tried to fight them before but
     it was unsuccesful.
-  - Go and eliminate them. After that I will help you withwhatever you need. What
+  - Go and eliminate them. After that I will help you with whatever you need. What
     do you say?
   - I'm sure you remember how to throw some fists [X].
   autoProgressLines: 0101010101010101

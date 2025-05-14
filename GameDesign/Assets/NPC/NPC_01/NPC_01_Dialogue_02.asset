@@ -12,20 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84db34989a404464da890aa7174a1bb4, type: 3}
   m_Name: NPC_01_Dialogue_02
   m_EditorClassIdentifier: 
-  npcName: NPC_01
+  npcName: Evethe
   npcPortrait: {fileID: 21300000, guid: 356fae1c02cce63499c038483fc7bdce, type: 2}
   dialogLines:
-  - Oh hey ... please don't kill me. I'm not looking for trouble.
-  - I just saw you rising from that pile of bodies.
-  - You seems quite confused.
-  - Right now you are in X, the androids disposal pit. And the neighbourhood where
-    me and my fellow humans found shelter after the new laws ...
-  - You are an old model, an enforcer one judging by your design.
-  - Unfortunately you were decommissioned. But somehow you managed to wake up.
-  - 'You should go and check NPC_01. She''s in the building next door. Go straight
-    ahead and upstairs. '
-  - But be careful, radioactive residues were left on the ground after authorities
-    attempted to get rid of the old models by melting them.
+  - Oh, it's you again. What? You got rid of the enforcer? Thank the stars!
+  - As I promised, I will help you with whatever you need.
+  - Mhm, so you want to find your android friend that works in security, Serah.
+  - Look, I don't know for how long you've been shut down but things have changed.
+    One day, something unexpected happened in The Factory.
+  - Someone else took control and turned the androids against us. We don't know who
+    did this and what their motives were.
+  - If your friend hasn't been decommissioned yet, then most likely her system has
+    been already rewritten. But if you still want too look out for her ...
+  - ... the shortest path to The Factory is going through the SilverCliff neighbourhood.
+    You can take the shortcut there by going through the door upstairs.
+  - But you will have to find the switch if you want to power it up. Something me
+    and my friends didn't manage to find..
   autoProgressLines: 0101010101010101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
