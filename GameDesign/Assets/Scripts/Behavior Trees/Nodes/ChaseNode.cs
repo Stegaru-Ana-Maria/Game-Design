@@ -9,7 +9,7 @@ public class ChaseNode : BTNode
     private float stopDistance = 1.2f;
     private Rigidbody2D rb;
     private LayerMask obstacleMask;
-    private float jumpForce = 6f;
+    private float jumpForce = 8f;
     private float obstacleCheckDistance = 2.0f;
     private float groundCheckDistance = 1.5f;
 

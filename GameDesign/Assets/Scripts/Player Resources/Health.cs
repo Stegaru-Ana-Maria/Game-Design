@@ -9,6 +9,7 @@ public class Health : MonoBehaviour
     public Transform respawPoint;
     private Rigidbody2D rb;
     [SerializeField] private float startingHealth;
+    public float StartingHealth => startingHealth;
     public float currentHealth { get; private set; }
     public float newHealth;
     private Animator anim;

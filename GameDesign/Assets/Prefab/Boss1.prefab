@@ -516,8 +516,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -590313669
+  m_SortingLayer: 2
   m_SortingOrder: 3
   m_Sprite: {fileID: -4135836072091612975, guid: 3ea34e85ff78e1a4cb7adf39d5df0183, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -596,6 +596,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5266931277514696407}
     m_Modifications:
+    - target: {fileID: 165717895573556159, guid: 1c89137aa6fc3cd41a027192bbe9d1ee, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 165717895573556159, guid: 1c89137aa6fc3cd41a027192bbe9d1ee, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -590313669
+      objectReference: {fileID: 0}
     - target: {fileID: 4432826857173452316, guid: 1c89137aa6fc3cd41a027192bbe9d1ee, type: 3}
       propertyPath: m_Name
       value: HealEffect
