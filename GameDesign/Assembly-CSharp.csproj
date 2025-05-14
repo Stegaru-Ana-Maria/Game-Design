@@ -65,10 +65,10 @@
     <Compile Include="Assets\Scripts\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Healthbar.cs" />
+    <Compile Include="Assets\Scripts\Game Manager\Enums.cs" />
     <Compile Include="Assets\Scripts\Game Utility\PlayerTeleport.cs" />
-    <Compile Include="Assets\Scripts\BackgroundController.cs" />
+    <Compile Include="Assets\Scripts\Game Manager\CameraController.cs" />
     <Compile Include="Assets\Scripts\PrefabWeapon.cs" />
-    <Compile Include="Assets\Scripts\PauseController.cs" />
     <Compile Include="Assets\Scripts\Effects\HealEffectController.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\LaserAttackNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\DoorController.cs" />
@@ -90,13 +90,17 @@
     <Compile Include="Assets\Scripts\Grid\Pathfinding.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ActionNode.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Trap.cs" />
     <Compile Include="Assets\Scripts\Game Utility\Teleporter.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\CooldownNode.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyState.cs" />
     <Compile Include="Assets\Scripts\Enemies\IBossAI.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Box\HealthBox.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\NPC\CutsceneDialogController.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
+=======
+>>>>>>> e1a288aa9e9cd6ce85e418b35fae2c5c8ebeadc9
     <Compile Include="Assets\Scripts\NPC\NPC1.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\AttackState.cs" />
@@ -107,44 +111,54 @@
     <Compile Include="Assets\Scripts\Player Resources\Projectile.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\LevelProgressionData.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1Projectile.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\NextLevelTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
     <Compile Include="Assets\Scripts\NPC\InteractionDetector.cs" />
+    <Compile Include="Assets\Scripts\Game Manager\PauseController.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPC2.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\ReturnToPointNode.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\NextLevelDoorController.cs" />
     <Compile Include="Assets\Scripts\Sound\MusicManager.cs" />
     <Compile Include="Assets\Scripts\NPC\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Door System\SwitchController.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyFSM.cs" />
     <Compile Include="Assets\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\FirstBoosRoomDoorController.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\ChaseNode.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
+    <Compile Include="Assets\Scripts\Game Manager\BackgroundController.cs" />
     <Compile Include="Assets\Scripts\Laser.cs" />
-    <Compile Include="Assets\NextLevelTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\LightAttackNode.cs" />
     <Compile Include="Assets\Scripts\Main Scene\TitleScreenManager.cs" />
     <Compile Include="Assets\Scripts\Enemies\Boss2\Boss2RoomTrigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1AI.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Game Utility\GameSession.cs" />
     <Compile Include="Assets\Scripts\NPC\IInteractable.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Nodes\BossHealthNode.cs" />
     <Compile Include="Assets\Scripts\Player Resources\Health.cs" />
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
-    <Compile Include="Assets\Scripts\Enums.cs" />
+    <Compile Include="Assets\Scripts\Main Scene\ChangeSceneOnTimer.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ConditionNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Checkpoint\CheckPointInteraction.cs" />
-    <Compile Include="Assets\Scripts\GameSession.cs" />
     <Compile Include="Assets\Scripts\Grid\Unit.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneState.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\HeartPickup.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\FirstBoosRoomDoorController.cs" />
     <Compile Include="Assets\Scripts\Game Utility\EndingSceneChange.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ReturnToPatrolState.cs" />
     <Compile Include="Assets\Scripts\CustomSignal.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+=======
+    <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Drone\ReturnToPatrolState.cs" />
+>>>>>>> e1a288aa9e9cd6ce85e418b35fae2c5c8ebeadc9
     <Compile Include="Assets\Scripts\NPC\NPC.cs" />
     <Compile Include="Assets\Scripts\Grid\Heap.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\PauseMenu.cs" />

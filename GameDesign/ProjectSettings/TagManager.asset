@@ -60,9 +60,6 @@ TagManager:
   - name: Laser
     uniqueID: 3951490683
     locked: 0
-  - name: Ground
-    uniqueID: 1223000445
-    locked: 0
   - name: Trap
     uniqueID: 680534635
     locked: 0
@@ -80,6 +77,12 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2194403247
+    locked: 0
+  - name: Gate
+    uniqueID: 2662892121
+    locked: 0
+  - name: Ground
+    uniqueID: 1223000445
     locked: 0
   m_RenderingLayers:
   - Default

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84db34989a404464da890aa7174a1bb4, type: 3}
+  m_Name: NPC_02Dialogue_01
+  m_EditorClassIdentifier: 
+  npcName: Decaying Gatekeeper
+  npcPortrait: {fileID: 21300000, guid: 7b30debe8d550c04894b793de65b1893, type: 3}
+  dialogLines:
+  - Who is there? I can hear your footsteps ...
+  - Oh, a fellow android ... I hope you are not here to take more parts from me ...
+  - I don't know how much longer I can keep going. One day, my system will shut down.
+  - You want to get past the gate? I could help you with that.
+  - I've been programme to secure this entrance. I'm the one who holds the key.
+  - My nature of serving the others has led me to decay. Each day they come and take
+    more and more parts from me only so they can sustain themselves.
+  - And I can't no longer fight back. If you want me to open the door, please help
+    me with something ...
+  - Go down the ladder, into the sewers and take my the laser from those selfish
+    bastards. We will talk more after you come back with it.
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
