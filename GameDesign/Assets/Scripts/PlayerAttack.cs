@@ -10,6 +10,7 @@ public class PlayerAttack : MonoBehaviour
     private Animator anim;
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
+    public bool rangedAttackUnlocked = false;
 
     [Header("ENERGY INFORMATION")]
     public int maxEnergy;
@@ -24,11 +25,12 @@ public class PlayerAttack : MonoBehaviour
         playerMovement = GetComponent<PlayerMovement>();
         maxEnergy = projectiles.Count() * 10;
         currentEnergy = maxEnergy;
+        rangedAttackUnlocked = GameSession.rangedAttackUnlocked;
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.C) && cooldownTimer > attackCooldown && playerMovement.canAttack())
+        if (rangedAttackUnlocked && Input.GetKeyDown(KeyCode.C) && cooldownTimer > attackCooldown && playerMovement.canAttack())
             HandleAttack();
 
         cooldownTimer += Time.deltaTime;

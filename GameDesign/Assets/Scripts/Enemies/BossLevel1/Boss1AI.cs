@@ -30,16 +30,20 @@ public class Boss1AI : MonoBehaviour, IBossAI
     [SerializeField] private GameObject shieldObject;
     [SerializeField] private GameObject healEffectPrefab;
 
+    [Header("Return")]
+    [SerializeField] private Transform returnPoint;
+
     private BTNode root;
     private Transform player;
     private Animator animator;
     private BossHealth bossHealth;
     private Rigidbody2D rb;
+    private Health playerHealth;
 
     private bool playerInRoom = false;
     public bool isPerformingLaserAttack = false;
     private bool shieldActive = false;
-
+    private bool isReturningToPoint = false;
 
     void Start()
     {
@@ -47,6 +51,7 @@ public class Boss1AI : MonoBehaviour, IBossAI
         bossHealth = GetComponent<BossHealth>();
         animator = GetComponent<Animator>();
         player = GameObject.FindGameObjectWithTag("Player").transform;
+        playerHealth = player.GetComponent<Health>();
 
         #region Condition Nodes
         var isPlayerInRoom = new ConditionNode(() => playerInRoom);
@@ -55,6 +60,8 @@ public class Boss1AI : MonoBehaviour, IBossAI
         var isTooFarForAttack = new ConditionNode(() => Vector2.Distance(transform.position, player.position) > attack1Range);
         var isTooFarForLaserAttack = new ConditionNode(() => Vector2.Distance(transform.position, player.position) > laserAttackRange);
         var isLowHP = new ConditionNode(() => bossHealth.GetHealth() < maxHP * 0.3f);
+        var isPlayerDeadNode = new ConditionNode(() => playerHealth != null && playerHealth.isPlayerDead());
+
         #endregion
 
         #region Actions
@@ -116,6 +123,9 @@ public class Boss1AI : MonoBehaviour, IBossAI
             animator.SetBool("isRunning", false);
             return NodeState.SUCCESS;
         });
+
+        var returnToPoint = new ReturnToPointNode(transform, returnPoint, chaseSpeed, animator, rb, obstacleMask, this);
+
         #endregion
 
         #region Cooldowns
@@ -165,6 +175,20 @@ public class Boss1AI : MonoBehaviour, IBossAI
         // --- Final Root Tree ---
         root = new Selector(new List<BTNode>
         {
+            new Sequence(new List<BTNode>
+            {
+                new ConditionNode(() => isReturningToPoint),
+                returnToPoint
+            }),
+            new Sequence(new List<BTNode>
+            {
+                isPlayerDeadNode,
+                new ActionNode(() =>
+                {
+                    isReturningToPoint = true;
+                    return NodeState.SUCCESS;
+                })
+            }),
             defensiveTree,
             combatTree,
             idle
@@ -197,6 +221,11 @@ public class Boss1AI : MonoBehaviour, IBossAI
             float direction = Mathf.Sign(transform.localScale.x);
             proj.GetComponent<Boss1Projectile>().SetDirection(direction);
         }
+    }
+
+    public void SetReturningToPoint(bool value)
+    {
+        isReturningToPoint = value;
     }
 
     private void OnDrawGizmosSelected()

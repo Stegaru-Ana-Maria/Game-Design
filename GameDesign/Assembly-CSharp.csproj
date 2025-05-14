@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\UI Scripts\ButtonSoundPlayer.cs" />
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\BossHealth.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ParallelNode.cs" />
+    <Compile Include="Assets\Scripts\Interactive Obj\RangedAbilityUnlock.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ChaseState.cs" />
     <Compile Include="Assets\Scripts\Enemies\Boss2\Boss2AI.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneFSM.cs" />
@@ -107,6 +108,7 @@
     <Compile Include="Assets\Scripts\Enemies\BossLevel1\Boss1Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyPatrolState.cs" />
     <Compile Include="Assets\Scripts\NPC\InteractionDetector.cs" />
+    <Compile Include="Assets\Scripts\Behavior Trees\Nodes\ReturnToPointNode.cs" />
     <Compile Include="Assets\Scripts\Sound\MusicManager.cs" />
     <Compile Include="Assets\Scripts\NPC\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\Game Manager\SaveProgressManager.cs" />
@@ -129,8 +131,10 @@
     <Compile Include="Assets\Scripts\Enums.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\ConditionNode.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Checkpoint\CheckPointInteraction.cs" />
+    <Compile Include="Assets\Scripts\GameSession.cs" />
     <Compile Include="Assets\Scripts\Grid\Unit.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\DroneState.cs" />
+    <Compile Include="Assets\Scripts\Interactive Obj\HeartPickup.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
