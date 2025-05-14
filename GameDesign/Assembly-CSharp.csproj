@@ -96,11 +96,7 @@
     <Compile Include="Assets\Scripts\Enemies\Enemy\EnemyState.cs" />
     <Compile Include="Assets\Scripts\Enemies\IBossAI.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Box\HealthBox.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\NPC\CutsceneDialogController.cs" />
-    <Compile Include="Assets\Scripts\Trap.cs" />
-=======
->>>>>>> e1a288aa9e9cd6ce85e418b35fae2c5c8ebeadc9
     <Compile Include="Assets\Scripts\NPC\NPC1.cs" />
     <Compile Include="Assets\Scripts\Progress Saving\SaveFileDataWriter.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy\AttackState.cs" />
@@ -148,17 +144,10 @@
     <Compile Include="Assets\Scripts\UI Scripts\UI_Match_Scroll_Wheel_To_Selected_Button.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\UI_Level_Load.cs" />
     <Compile Include="Assets\Scripts\Behavior Trees\Sequence.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\FirstBoosRoomDoorController.cs" />
     <Compile Include="Assets\Scripts\Game Utility\EndingSceneChange.cs" />
     <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Drone\ReturnToPatrolState.cs" />
     <Compile Include="Assets\Scripts\CustomSignal.cs" />
-    <Compile Include="Assets\Scripts\CameraController.cs" />
-=======
-    <Compile Include="Assets\Scripts\Interactive Obj\Ladder\LadderMovement.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Drone\ReturnToPatrolState.cs" />
->>>>>>> e1a288aa9e9cd6ce85e418b35fae2c5c8ebeadc9
     <Compile Include="Assets\Scripts\NPC\NPC.cs" />
     <Compile Include="Assets\Scripts\Grid\Heap.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\PauseMenu.cs" />
